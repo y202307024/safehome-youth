@@ -84,7 +84,8 @@ export async function POST(request: Request): Promise<Response> {
         ? { text: sample.text }
         : { imageBase64: input.imageBase64, mimeType: input.mimeType },
     );
-  } catch {
+  } catch (error) {
+    console.error("계약서 AI 분석 실패:", error);
     if (sample) {
       return Response.json({ ...sample.fallback, usedFallback: true });
     }

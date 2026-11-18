@@ -101,43 +101,59 @@ export async function analyzeContract(
     throw new Error("계약서 이미지의 올바른 MIME 타입이 필요합니다.");
   }
 
-  const apiKey = process.env.GEMINI_API_KEY;
-  const modelName = process.env.GEMINI_MODEL;
-  if (!apiKey || !modelName) {
-    throw new Error("GEMINI_API_KEY와 GEMINI_MODEL 환경 변수를 확인하세요.");
+  const apiKey = process.env.GEMINI_API_KEY?.trim();
+  if (!apiKey) {
+    throw new Error("GEMINI_API_KEY 환경 변수를 확인하세요.");
   }
 
-  const model = new GoogleGenerativeAI(apiKey).getGenerativeModel({
-    model: modelName,
-    generationConfig: {
-      responseMimeType: "application/json",
-      temperature: 0.2,
-    },
-  });
+  const modelNames = [
+    process.env.GEMINI_MODEL?.trim(),
+    process.env.GEMINI_FALLBACK_MODEL?.trim(),
+    "gemini-3.5-flash",
+  ].filter((name, index, names): name is string => Boolean(name) && names.indexOf(name) === index);
+
   const parts: Part[] = [{ text: PROMPT }];
   if (text) parts.push({ text: `계약서 텍스트:\n${text}` });
   if (imageBase64 && input.mimeType) {
     parts.push({ inlineData: { data: imageBase64, mimeType: input.mimeType } });
   }
 
-  let validationError: unknown;
-  for (let attempt = 0; attempt < 2; attempt += 1) {
-    const requestParts =
-      attempt === 0
-        ? parts
-        : [...parts, { text: "이전 응답 형식이 잘못되었습니다. 위 JSON 구조를 정확히 지키세요." }];
-    const result = await model.generateContent(requestParts);
+  let lastError: unknown;
+  for (const modelName of modelNames) {
+    const model = new GoogleGenerativeAI(apiKey).getGenerativeModel({
+      model: modelName,
+      generationConfig: {
+        responseMimeType: "application/json",
+        temperature: 0.2,
+      },
+    });
 
-    try {
-      const parsed = analysisSchema.safeParse(JSON.parse(result.response.text()));
-      if (parsed.success) return parsed.data;
-      validationError = parsed.error;
-    } catch (error) {
-      validationError = error;
+    for (let attempt = 0; attempt < 2; attempt += 1) {
+      const requestParts =
+        attempt === 0
+          ? parts
+          : [...parts, { text: "이전 응답 형식이 잘못되었습니다. 위 JSON 구조를 정확히 지키세요." }];
+
+      let responseText: string;
+      try {
+        const result = await model.generateContent(requestParts);
+        responseText = result.response.text();
+      } catch (error) {
+        lastError = error;
+        break;
+      }
+
+      try {
+        const parsed = analysisSchema.safeParse(JSON.parse(responseText));
+        if (parsed.success) return parsed.data;
+        lastError = parsed.error;
+      } catch (error) {
+        lastError = error;
+      }
     }
   }
 
-  throw new Error("Gemini 응답이 두 번 모두 JSON 검증에 실패했습니다.", {
-    cause: validationError,
+  throw new Error("사용 가능한 Gemini 모델에서 계약서 분석에 실패했습니다.", {
+    cause: lastError,
   });
 }
