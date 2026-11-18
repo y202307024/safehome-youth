@@ -1,9 +1,9 @@
 import type { AnalyzeResponse, PrecheckAnswers, SampleId } from "@/types";
 
 export const SAMPLE_MONTHLY_RENTS = {
-  green: 45,
-  yellow: 62,
-  red: 30,
+  green: 46.8,
+  yellow: 61.5,
+  red: 32.7,
 } as const satisfies Record<SampleId, number>;
 
 const AFTER_CONTRACT_TODOS = [
@@ -95,9 +95,9 @@ export const SAMPLES: Record<
       ],
       fraudSignals: [],
       priceCheck: {
-        avgRent: 45,
-        avgDeposit: 1000,
-        sampleCount: 12,
+        avgRent: 46.8,
+        avgDeposit: 6659.4,
+        sampleCount: 451,
         diffPercent: 0,
         level: "FAIR",
       },
@@ -172,9 +172,9 @@ export const SAMPLES: Record<
       ],
       fraudSignals: [],
       priceCheck: {
-        avgRent: 52.5,
-        avgDeposit: 1000,
-        sampleCount: 10,
+        avgRent: 52.1,
+        avgDeposit: 5745,
+        sampleCount: 1984,
         diffPercent: 18.1,
         level: "EXPENSIVE",
       },
@@ -261,9 +261,9 @@ export const SAMPLES: Record<
         { type: "AGENT_ACCOUNT", severity: "HIGH", message: "대리 계약이며 지급 계좌도 소유자가 아닌 대리인 명의입니다.", action: "인감증명서가 첨부된 위임장과 본인 의사를 확인하고 적법한 계좌로만 지급하세요." },
       ],
       priceCheck: {
-        avgRent: 42.86,
-        avgDeposit: 5000,
-        sampleCount: 9,
+        avgRent: 46.7,
+        avgDeposit: 2521.3,
+        sampleCount: 5326,
         diffPercent: -30,
         level: "SUSPICIOUSLY_CHEAP",
       },
