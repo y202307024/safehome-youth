@@ -1,0 +1,6624 @@
+[
+  {
+    "name": "두리부동산중개사무소",
+    "regNo": "11620-2025-00100",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "센츄리믿음(02-884-8100)공인중개사사무소",
+    "regNo": "11620-2025-00101",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "별빛공인중개사사무소",
+    "regNo": "11620-2025-00102",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나우공인중개사사무소",
+    "regNo": "11620-2025-00104",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사엘앤디부동산중개법인",
+    "regNo": "11620-2025-00105",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "엘앤디공인중개사사무소",
+    "regNo": "11620-2025-00106",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴포레공인중개사사무소",
+    "regNo": "11620-2025-00108",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산이즈우리부동산공인중개사사무소",
+    "regNo": "11620-2025-00109",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "박사(정문02-877-6000)공인중개사사무소",
+    "regNo": "11620-2025-00110",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "팔팔공인중개사사무소",
+    "regNo": "11620-2025-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "JS공인중개사사무소",
+    "regNo": "11620-2025-00114",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하랑부동산중개사사무소",
+    "regNo": "11620-2025-00115",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "베스트공인중개사사무소",
+    "regNo": "11620-2025-00117",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "두산홈즈(02-878-6607)부동산중개",
+    "regNo": "11620-2025-00118",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마음든든공인중개사사무소",
+    "regNo": "11620-2025-00120",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "메종(낙성대역1번출구)공인중개사사무소",
+    "regNo": "11620-2025-00121",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "집으로부동산공인중개사사무소",
+    "regNo": "11620-2025-00122",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "가야부동산공인중개사사무소",
+    "regNo": "11620-2025-00123",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "체크부동산공인중개사사무소",
+    "regNo": "11620-2025-00124",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우정부동산중개사무소",
+    "regNo": "11620-2025-00126",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴스타공인중개사사무소",
+    "regNo": "11620-2025-00127",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "덕양골드(02-877-6120)공인중개사사무소",
+    "regNo": "11620-2025-00128",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부귀영화공인중개사사무소",
+    "regNo": "11620-2025-00130",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "새로공인중개사사무소",
+    "regNo": "11620-2025-00132",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "르네상스공인중개사사무소",
+    "regNo": "11620-2025-00134",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "보석공인중개사사무소",
+    "regNo": "11620-2025-00136",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "더감각공인중개사사무소",
+    "regNo": "11620-2025-00138",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지음부동산중개사무소",
+    "regNo": "11620-2025-00139",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "CK공인중개사사무소",
+    "regNo": "11620-2025-00140",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나공인중개사사무소",
+    "regNo": "11620-2025-00142",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금호공인중개사사무소",
+    "regNo": "11620-2025-00143",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴본동(단지내02-889-5308)공인중개사사무소",
+    "regNo": "11620-2025-00145",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "프리미엄공인중개사사무소",
+    "regNo": "11620-2025-00146",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미건공인중개사사무소",
+    "regNo": "11215-2016-00056",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선호공인중개사사무소",
+    "regNo": "11290-2017-00060",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마일공인중개사사무소",
+    "regNo": "11440-2016-00105",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "탑공인중개사사무소",
+    "regNo": "11545-2015-00006",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "비에스공인중개사사무소",
+    "regNo": "11545-2015-00048",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "패밀리공인중개사사무소",
+    "regNo": "11560-2019-00080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남강공인중개사사무소",
+    "regNo": "11590-2016-00024",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "Q-부동산공인중개사사무소",
+    "regNo": "11590-2016-00030",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "백두공인중개사사무소",
+    "regNo": "11590-2018-00204",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대자연공인중개사사무소",
+    "regNo": "92480000-03303",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "토토공인중개사사무소",
+    "regNo": "92480000-03313",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은혜공인중개사사무소",
+    "regNo": "92480000-03330",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "영림공인중개사사무소",
+    "regNo": "92480000-03352",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이음공인중개사사무소",
+    "regNo": "92480000-03366",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "씨티공인중개사사무소",
+    "regNo": "92480000-03376",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오성공인중개사사무소",
+    "regNo": "92480000-03435",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남문공인중개사사무소",
+    "regNo": "92480000-03437",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "류상규박사공인중개사사무소",
+    "regNo": "92480000-03440",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남희(e편한단지내)공인중개사사무소",
+    "regNo": "92480000-03467",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은송부동산공인중개사사무소",
+    "regNo": "92480000-03496",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "메종공인중개사사무소",
+    "regNo": "92480000-03501",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림공인중개사사무소",
+    "regNo": "92480000-03506",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "엘지공인중개사사무소",
+    "regNo": "92480000-03533",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선재공인중개사사무소",
+    "regNo": "92480000-03592",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원부동산공인중개사사무소",
+    "regNo": "92480000-03604",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "로얄공인중개사사무소",
+    "regNo": "92480000-03607",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "늘푸른공인중개사사무소",
+    "regNo": "92480000-03609",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한영공인중개사사무소",
+    "regNo": "92480000-03613",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우림공인중개사사무소",
+    "regNo": "92480000-03622",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "평화공인중개사사무소",
+    "regNo": "92480000-03643",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대(단지내)공인중개사사무소",
+    "regNo": "92480000-03678",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해성공인중개사사무소",
+    "regNo": "92480000-03709",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "LCA공인중개사사무소",
+    "regNo": "92480000-03714",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산프로공인중개사사무소",
+    "regNo": "92480000-03730",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "SK허브공인중개사사무소",
+    "regNo": "92480000-03732",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은혜공인중개사사무소",
+    "regNo": "92480000-03763",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대연공인중개사사무소",
+    "regNo": "92480000-03799",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "e타임공인중개사사무소",
+    "regNo": "92480000-03830",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "정원공인중개사사무소",
+    "regNo": "92480000-03839",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "연세공인중개사사무소",
+    "regNo": "92480000-03851",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "건영공인중개사사무소",
+    "regNo": "92480000-03874",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-03876",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신사공인중개사사무소",
+    "regNo": "92480000-03884",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92480000-03886",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "늘푸른공인중개사사무소",
+    "regNo": "92480000-03892",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태성공인중개사사무소",
+    "regNo": "92480000-03895",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "코어공인중개사사무소",
+    "regNo": "92480000-03908",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은부동산공인중개사사무소",
+    "regNo": "92480000-03968",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-03996",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "CS공인중개사사무소",
+    "regNo": "11620-2022-00036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "탑(e편한단지내02-882-8900)공인중개사사무소",
+    "regNo": "11620-2022-00038",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "구름공인중개사사무소",
+    "regNo": "11620-2022-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "믿음 공인중개사사무소",
+    "regNo": "11620-2022-00041",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "당곡역공인중개사사무소",
+    "regNo": "11620-2022-00045",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "소망공인중개사사무소",
+    "regNo": "11620-2022-00065",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나만의집사공인중개사사무소",
+    "regNo": "11620-2022-00074",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산이즈청림자이부동산공인중개사사무소",
+    "regNo": "11620-2022-00080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "THE좋은부동산공인중개사사무소",
+    "regNo": "11620-2022-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나공인중개사사무소",
+    "regNo": "11620-2022-00085",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마블공인중개사사무소",
+    "regNo": "11620-2022-00088",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "자이공인중개사사무소",
+    "regNo": "11620-2022-00090",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "11620-2022-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "친절한공인중개사사무소",
+    "regNo": "11620-2022-00098",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리부동산공인중개사사무소",
+    "regNo": "11620-2022-00108",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "더부자공인중개사사무소",
+    "regNo": "11620-2022-00109",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다온공인중개사사무소",
+    "regNo": "11620-2022-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴난곡부동산중개",
+    "regNo": "11620-2022-00119",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우정플러스공인중개사사무소",
+    "regNo": "11620-2022-00120",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산센터공인중개사사무소",
+    "regNo": "11620-2022-00122",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대에이치엔씨공인중개사사무소",
+    "regNo": "11620-2022-00130",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대(단지내)공인중개사사무소",
+    "regNo": "11620-2022-00132",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "DH공인중개사사무소",
+    "regNo": "11620-2022-00136",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태극공인중개사사무소",
+    "regNo": "11620-2022-00142",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홍일공인중개사사무소",
+    "regNo": "11620-2022-00158",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "힐스테이트강남공인중개사사무소",
+    "regNo": "11620-2022-00161",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "11620-2022-00162",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이편한골드(02-877-1223)단지내공인중개사사무소",
+    "regNo": "11620-2022-00166",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴센츄리믿음(884-8100)공인중개사사무소",
+    "regNo": "11620-2022-00168",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "골드(단지내02-6334-4989)공인중개사사무소",
+    "regNo": "11620-2022-00169",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성진공인중개사사무소",
+    "regNo": "11620-2022-00170",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "화담공인중개사사무소",
+    "regNo": "11620-2022-00171",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리부동산중개사무소",
+    "regNo": "11620-2022-00173",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사 부동산중개법인서울",
+    "regNo": "11620-2022-00174",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "사이다공인중개사사무소",
+    "regNo": "11620-2022-00180",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은천공인중개사사무소",
+    "regNo": "92480000-04004",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "엘리트공인중개사사무소",
+    "regNo": "92480000-04013",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "92480000-04023",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "비전공인중개사사무소",
+    "regNo": "92480000-04035",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한솔공인중개사사무소",
+    "regNo": "92480000-04037",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신세계공인중개사사무소",
+    "regNo": "92480000-04038",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마에스트로공인중개사사무소",
+    "regNo": "92480000-04057",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림부동산중개",
+    "regNo": "92480000-04064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소",
+    "regNo": "92480000-04077",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "김인숙공인중개사사무소",
+    "regNo": "92480000-04107",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홈런부동산공인중개사사무소",
+    "regNo": "92480000-04133",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세종공인중개사사무소",
+    "regNo": "92480000-04134",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아시아공인중개사사무소",
+    "regNo": "92480000-04137",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "92480000-04171",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "두껍아공인중개사사무소",
+    "regNo": "92480000-04188",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대양부동산공인중개사사무소",
+    "regNo": "92480000-04219",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홈플러스공인중개사사무소",
+    "regNo": "92480000-04233",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "굿모닝(02-886-7600)공인중개사사무소",
+    "regNo": "92480000-04259",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대경공인중개사사무소",
+    "regNo": "92480000-04277",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청담공인중개사사무소",
+    "regNo": "92480000-04280",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "92480000-04291",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "휘성공인중개사사무소",
+    "regNo": "92480000-04298",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성신공인중개사사무소",
+    "regNo": "92480000-04311",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신일공인중개사사무소",
+    "regNo": "92480000-04315",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "정진공인중개사사무소",
+    "regNo": "92480000-04316",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "국제산장(단지내상가)공인중개사사무소",
+    "regNo": "92480000-04354",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "SG공인중개사사무소",
+    "regNo": "92480000-04358",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유명공인중개사사무소",
+    "regNo": "92480000-04365",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "등대공인중개사사무소",
+    "regNo": "92480000-04400",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "92480000-04408",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은공인중개사사무소",
+    "regNo": "92480000-04414",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "벽산정보공인중개사사무소",
+    "regNo": "92480000-04420",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하늘공인중개사사무소",
+    "regNo": "92480000-04429",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우림공인중개사사무소",
+    "regNo": "92480000-04432",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미성공인중개사사무소",
+    "regNo": "92480000-04439",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우주공인중개사사무소",
+    "regNo": "92480000-04440",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동남공인중개사사무소",
+    "regNo": "92480000-04454",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명지공인중개사사무소",
+    "regNo": "92480000-04457",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "드림타운단지내(02-878-6000)공인중개사사무소",
+    "regNo": "11620-2022-00184",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성동아(02-885-0022)단지내공인중개사사무소",
+    "regNo": "11620-2022-00186",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "롯*대공인중개사사무소",
+    "regNo": "11620-2022-00189",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "The드림공인중개사사무소",
+    "regNo": "11620-2022-00193",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우주공인중개사사무소",
+    "regNo": "11620-2022-00196",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은하수공인중개사사무소",
+    "regNo": "11620-2022-00198",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "박사(단지내02-877-6000)공인중개사사무소",
+    "regNo": "11620-2022-00201",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "파크공인중개사사무소",
+    "regNo": "11620-2022-00203",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "운조아부동산공인중개사사무소",
+    "regNo": "11620-2022-00204",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼일공인중개사사무소",
+    "regNo": "11620-2022-00209",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제이에스공인중개사사무소",
+    "regNo": "11620-2022-00211",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양공인중개사사무소",
+    "regNo": "11620-2022-00217",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유니버공인중개사사무소",
+    "regNo": "11620-2022-00218",
+    "status": "휴업연장",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청수부동산공인중개사사무소",
+    "regNo": "11620-2023-00001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남공인중개사사무소",
+    "regNo": "11620-2023-00009",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "위드공인중개사사무소",
+    "regNo": "11620-2023-00010",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "판다부동산중개사무소",
+    "regNo": "11620-2023-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복공인중개사사무소",
+    "regNo": "11620-2023-00012",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명품(단지내상가02-885-3900)공인중개사사무소",
+    "regNo": "11620-2023-00013",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "TS태양공인중개사사무소",
+    "regNo": "11620-2023-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "달빛부동산공인중개사사무소",
+    "regNo": "11620-2023-00021",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나부동산공인중개사사무소",
+    "regNo": "11620-2023-00024",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "웰컴공인중개사사무소",
+    "regNo": "11620-2023-00026",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동신공인중개사사무소",
+    "regNo": "11620-2023-00028",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복한공인중개사사무소",
+    "regNo": "11620-2023-00031",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한국공인중개사사무소",
+    "regNo": "11620-2023-00032",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "영수공인중개사사무소",
+    "regNo": "11620-2023-00033",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오늘공인중개사사무소",
+    "regNo": "11620-2023-00036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "백일프로공인중개사사무소",
+    "regNo": "11620-2023-00039",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명성공인중개사사무소",
+    "regNo": "11620-2023-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성심컨설팅공인중개사사무소",
+    "regNo": "11620-2023-00041",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "인연공인중개사사무소",
+    "regNo": "11620-2023-00042",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다인공인중개사사무소",
+    "regNo": "11620-2023-00045",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "평화부동산공인중개사사무소",
+    "regNo": "11620-2023-00051",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악현대공인중개사사무소",
+    "regNo": "92480000-04459",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "반석공인중개사사무소",
+    "regNo": "92480000-04473",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "향기공인중개사사무소",
+    "regNo": "92480000-04512",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남현제일공인중개사사무소",
+    "regNo": "92480000-04523",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양부동산중개사무소",
+    "regNo": "92480000-04533",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한빛공인중개사사무소",
+    "regNo": "92480000-04546",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "92480000-04561",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "믿음공인중개사사무소",
+    "regNo": "92480000-04587",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이편한까치랑대화공인중개사사무소",
+    "regNo": "92480000-04590",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "공간공인중개사사무소",
+    "regNo": "92480000-04596",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-04600",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "일등공인중개사사무소",
+    "regNo": "92480000-04606",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "어울림부동산공인중개사사무소",
+    "regNo": "92480000-04611",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-04620",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "비타민공인중개사사무소",
+    "regNo": "92480000-04622",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명도(단지내02-879-1212)공인중개사사무소",
+    "regNo": "92480000-04650",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선진공인중개사사무소",
+    "regNo": "92480000-04651",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복부동산공인중개사사무소",
+    "regNo": "92480000-04671",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "예성공인중개사사무소",
+    "regNo": "92480000-04672",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "WD엘림부동산공인중개사사무소",
+    "regNo": "92480000-04680",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "힐스테이트세원(정문앞02-875-8783)공인중개사사무소",
+    "regNo": "92480000-04688",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "상신공인중개사사무소",
+    "regNo": "92480000-04705",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림동부공인중개사사무소",
+    "regNo": "92480000-04720",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "네오공인중개사사무소",
+    "regNo": "92480000-04741",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-04758",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청솔공인중개사사무소",
+    "regNo": "92480000-04760",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태영공인중개사사무소",
+    "regNo": "92480000-04771",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "도원부동산공인중개사사무소",
+    "regNo": "92480000-04780",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산한방공인중개사사무소",
+    "regNo": "92480000-04781",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "임광파크공인중개사사무소",
+    "regNo": "92480000-04783",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼모프라임공인중개사사무소",
+    "regNo": "92480000-04787",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대우부동산공인중개사사무소",
+    "regNo": "92480000-04790",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "리치공인중개사사무소",
+    "regNo": "92480000-04806",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "거송부동산공인중개사사무소",
+    "regNo": "92480000-04812",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태인공인중개사사무소",
+    "regNo": "92480000-04816",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서진부동산공인중개사사무소",
+    "regNo": "92480000-04821",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "영화공인중개사사무소",
+    "regNo": "92480000-04828",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바로공인중개사사무소",
+    "regNo": "92480000-04842",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "착한공인중개사사무소",
+    "regNo": "11620-2023-00052",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참조은부동산공인중개사사무소",
+    "regNo": "11620-2023-00053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해요공인중개사사무소",
+    "regNo": "11620-2023-00055",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아이클래스부동산공인중개사사무소",
+    "regNo": "11620-2023-00056",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "초이스공인중개사사무소",
+    "regNo": "11620-2023-00060",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2023-00061",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성신공인중개사사무소",
+    "regNo": "11620-2023-00062",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "구암(02-888-1700)공인중개사사무소",
+    "regNo": "11620-2023-00063",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "봄날공인중개사사무소",
+    "regNo": "11620-2023-00064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "계룡공인중개사사무소",
+    "regNo": "11620-2023-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "SK부동산(02-885-3200)공인중개사사무소",
+    "regNo": "11620-2023-00069",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한마음공인중개사사무소",
+    "regNo": "11620-2023-00072",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은집(02-871-7600)공인중개사사무소",
+    "regNo": "11620-2023-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "초콜릿부동산중개",
+    "regNo": "11620-2023-00077",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산이즈e편한청호공인중개사사무소",
+    "regNo": "11620-2023-00078",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신현대공인중개사사무소",
+    "regNo": "11620-2023-00082",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼삼공인중개사사무소",
+    "regNo": "11620-2023-00083",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "모모부동산케어공인중개사사무소",
+    "regNo": "11620-2023-00085",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2023-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "소담공인중개사사무소",
+    "regNo": "11620-2023-00096",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "네모오렌지공인중개사사무소",
+    "regNo": "11620-2023-00098",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양공인중개사사무소",
+    "regNo": "11620-2023-00099",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하라공인중개사사무소",
+    "regNo": "11620-2023-00100",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "집공략공인중개사사무소",
+    "regNo": "11620-2023-00103",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "수우부동산신도브래뉴공인중개사사무소",
+    "regNo": "11620-2023-00104",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조원공인중개사사무소",
+    "regNo": "11620-2023-00112",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "집사부공인중개사사무소",
+    "regNo": "11620-2023-00115",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "소망디자인공인중개사사무소",
+    "regNo": "11620-2023-00119",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산지킬박사공인중개사사무소",
+    "regNo": "11620-2023-00129",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "H공인중개사사무소",
+    "regNo": "11620-2023-00132",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에드원공인중개사사무소",
+    "regNo": "11620-2023-00133",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성뉴타운공인중개사사무소",
+    "regNo": "11620-2023-00134",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "11620-2023-00136",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "92480000-04844",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "모아공인중개사사무소",
+    "regNo": "92480000-04855",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "92480000-04856",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "92480000-04861",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "92480000-04867",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "센츄리믿음(단지내02-884-8100)공인중개사사무소",
+    "regNo": "92480000-04887",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산마트공인중개사사무소",
+    "regNo": "92480000-04891",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세종공인중개사사무소",
+    "regNo": "92480000-04897",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "정상공인중개사사무소",
+    "regNo": "92480000-04911",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대박공인중개사사무소",
+    "regNo": "92480000-04912",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "92480000-04917",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소",
+    "regNo": "92480000-04922",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼보공인중개사사무소",
+    "regNo": "92480000-04925",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샘터공인중개사사무소",
+    "regNo": "92480000-04928",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "생생부동산공인중개사사무소",
+    "regNo": "92480000-04932",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "가보공인중개사사무소",
+    "regNo": "92480000-04933",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴에이스공인중개사사무소",
+    "regNo": "92480000-04944",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대컨설팅공인중개사사무소",
+    "regNo": "92480000-04952",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우성공인중개사사무소(단지내)",
+    "regNo": "92480000-04959",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "사계절공인중개사사무소",
+    "regNo": "92480000-04981",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92480000-04983",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원일공인중개사사무소",
+    "regNo": "92480000-04986",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "경록공인중개사사무소",
+    "regNo": "92480000-04987",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "자미온공인중개사사무소",
+    "regNo": "92480000-04992",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "비전공인중개사사무소",
+    "regNo": "92480000-04999",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "굿모닝공인중개사사무소",
+    "regNo": "92480000-05001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샤로수길공인중개사사무소",
+    "regNo": "92480000-05010",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "공인중개사사무소그린빌부동산",
+    "regNo": "92480000-05013",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대신부동산공인중개사사무소",
+    "regNo": "92480000-05037",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "92480000-05040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "테미스부동산공인중개사사무소",
+    "regNo": "92480000-05044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이숙공인중개사사무소",
+    "regNo": "92480000-05046",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "썬공인중개사사무소",
+    "regNo": "92480000-05053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "연세(단지내02-874-4000)공인중개사사무소",
+    "regNo": "92480000-05054",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "상아공인중개사사무소",
+    "regNo": "92480000-05057",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴대양공인중개사사무소",
+    "regNo": "92480000-05062",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미림공인중개사사무소",
+    "regNo": "92480000-05067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "가인부동산공인중개사사무소",
+    "regNo": "92480000-05095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "백운공인중개사사무소",
+    "regNo": "92480000-05099",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홈런공인중개사사무소",
+    "regNo": "11620-2023-00143",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지니공인중개사사무소",
+    "regNo": "11620-2023-00145",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양(단지앞***)공인중개사사무소",
+    "regNo": "11620-2023-00148",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "연세공인중개사사무소",
+    "regNo": "11620-2023-00152",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "라라공인중개사사무소",
+    "regNo": "11620-2023-00154",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미소공인중개사사무소",
+    "regNo": "11620-2023-00157",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "복덕방공인중개사사무소",
+    "regNo": "11620-2024-00005",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "The태양공인중개사사무소",
+    "regNo": "11620-2024-00006",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "시그니처공인중개사사무소",
+    "regNo": "11620-2024-00007",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이편한(단지앞)수복114공인중개사사무소",
+    "regNo": "11620-2024-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "김금희부동산공인중개사사무소",
+    "regNo": "11620-2024-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산이즈 서울부동산공인중개사사무소",
+    "regNo": "11620-2024-00016",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원두공인중개사사무소",
+    "regNo": "11620-2024-00019",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "번영공인중개사사무소",
+    "regNo": "11620-2024-00022",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대박공인중개사사무소",
+    "regNo": "11620-2024-00025",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "CF공인중개사사무소",
+    "regNo": "11620-2024-00031",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나무부동산공인중개사사무소",
+    "regNo": "11620-2024-00032",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리들부동산공인중개사사무소",
+    "regNo": "11620-2024-00033",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청솔공인중개사사무소",
+    "regNo": "11620-2024-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "둥지(단지내02-871-4455)공인중개사사무소",
+    "regNo": "11620-2024-00039",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다온공인중개사사무소",
+    "regNo": "11620-2024-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "11620-2024-00042",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "희망공인중개사사무소",
+    "regNo": "11620-2024-00044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참조은공인중개사사무소",
+    "regNo": "11620-2024-00045",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴웨이공인중개사사무소",
+    "regNo": "11620-2024-00046",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "The본공인중개사사무소",
+    "regNo": "11620-2024-00047",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신연공인중개사사무소",
+    "regNo": "11620-2024-00048",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신연부동산공인중개사사무소",
+    "regNo": "11620-2024-00049",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하늘공인중개사사무소",
+    "regNo": "11620-2024-00054",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지음부동산공인중개사사무소",
+    "regNo": "11620-2024-00057",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "감동부동산중개",
+    "regNo": "11620-2024-00058",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신한공인중개사사무소",
+    "regNo": "11620-2024-00059",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원데이공인중개사사무소",
+    "regNo": "11620-2024-00061",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "법대로 공인중개사사무소",
+    "regNo": "11620-2024-00064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "예스공인중개사사무소",
+    "regNo": "가-31-14-2259",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대명공인중개사사무소",
+    "regNo": "11620-2024-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "감각공인중개사사무소",
+    "regNo": "11620-2024-00068",
+    "status": "업무정지",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악공인중개사사무소",
+    "regNo": "11620-2024-00069",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나로공인중개사사무소",
+    "regNo": "11620-2024-00076",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "자취남부동산중개법인",
+    "regNo": "11620-2024-00079",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울중앙공인중개사사무소",
+    "regNo": "11620-2024-00081",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "햇살부동산중개법인주식회사",
+    "regNo": "11620-2024-00085",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스카이공인중개사사무소",
+    "regNo": "11620-2024-00087",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이앤유공인중개사사무소",
+    "regNo": "11620-2024-00089",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림5구역공인중개사사무소",
+    "regNo": "11620-2024-00090",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동부센트레빌1등공인중개사사무소",
+    "regNo": "11620-2024-00091",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다옴공인중개사사무소",
+    "regNo": "11620-2024-00092",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "호반부동산공인중개사사무소",
+    "regNo": "11620-2024-00094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "VIP공인중개사사무소",
+    "regNo": "11620-2024-00098",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "베스트(단지내02-872-2600)공인중개사사무소",
+    "regNo": "11620-2024-00099",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유경이편한공인중개사사무소",
+    "regNo": "11620-2024-00101",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "퍼스트공인중개사사무소",
+    "regNo": "11620-2024-00102",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "송파공인중개사사무소",
+    "regNo": "11620-2024-00106",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한강(드림타운02-888-9393)공인중개사사무소",
+    "regNo": "11620-2024-00107",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "리즈부동산공인중개사사무소",
+    "regNo": "11620-2024-00108",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "베스트공인중개사사무소",
+    "regNo": "11620-2024-00110",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제이유공인중개사사무소",
+    "regNo": "11620-2024-00111",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하이공인중개사사무소",
+    "regNo": "11620-2024-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "운조은공인중개사사무소",
+    "regNo": "11620-2024-00119",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "따뜻한공인중개사사무소",
+    "regNo": "11620-2024-00120",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오케이공인중개사사무소",
+    "regNo": "11620-2024-00121",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성산(단지내)공인중개사사무소",
+    "regNo": "11620-2024-00122",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "단비공인중개사사무소",
+    "regNo": "11620-2024-00123",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "로또공인중개사사무소",
+    "regNo": "11620-2024-00124",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "리더스부동산컨설팅공인중개사사무소",
+    "regNo": "11620-2025-00001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신연부동산중개",
+    "regNo": "11620-2025-00002",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "보라공인중개사사무소",
+    "regNo": "11620-2025-00004",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "골드공인중개사사무소",
+    "regNo": "11620-2025-00005",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하임공인중개사사무소",
+    "regNo": "11620-2025-00006",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "11620-2015-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "희망공인중개사사무소",
+    "regNo": "11620-2015-00017",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2015-00025",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "두드림공인중개사사무소",
+    "regNo": "11620-2015-00026",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "11620-2015-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사집토스공인중개사사무소",
+    "regNo": "11620-2025-00147",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참된부동산공인중개사사무소",
+    "regNo": "11620-2025-00148",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "GS공인중개사사무소",
+    "regNo": "11620-2025-00149",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원탑공인중개사사무소",
+    "regNo": "11620-2025-00150",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "따뜻한레이디공인중개사사무소",
+    "regNo": "11620-2025-00152",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "11620-2025-00154",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "글로벌공인중개사사무소",
+    "regNo": "11620-2026-00002",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "패밀리공인중개사사무소",
+    "regNo": "11620-2026-00003",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "프라임에셋부동산공인중개사사무소",
+    "regNo": "11620-2026-00004",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "투데이공인중개사사무소",
+    "regNo": "11620-2026-00005",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "허니공인중개사사무소",
+    "regNo": "11620-2026-00007",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마트공인중개사사무소",
+    "regNo": "11620-2026-00008",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바른부동산공인중개사사무소",
+    "regNo": "11620-2026-00009",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하이부동산공인중개사사무소",
+    "regNo": "11620-2026-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "집공략TV공인중개사사무소",
+    "regNo": "11620-2026-00012",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "모두공인중개사사무소",
+    "regNo": "11620-2026-00013",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "캐치부동산공인중개사사무소",
+    "regNo": "11620-2026-00014",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리들공인중개사사무소",
+    "regNo": "11620-2026-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유진부동산공인중개사사무소",
+    "regNo": "11620-2026-00016",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림신우공인중개사사무소",
+    "regNo": "11620-2026-00017",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다온공인중개사사무소",
+    "regNo": "11620-2026-00018",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "예스공인중개사사무소",
+    "regNo": "11620-2026-00019",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "11620-2026-00020",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하마공인중개사사무소",
+    "regNo": "11620-2026-00021",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "MZ공인중개사사무소",
+    "regNo": "11620-2026-00022",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성(02-872-7676단지내)공인중개사사무소",
+    "regNo": "11620-2026-00023",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "골목공인중개사사무소",
+    "regNo": "11620-2026-00024",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "SD공인중개사사무소",
+    "regNo": "11620-2026-00025",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원공인중개사사무소",
+    "regNo": "11620-2025-00007",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에이스공인중개사사무소",
+    "regNo": "11620-2025-00008",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "든든부동산공인중개사사무소",
+    "regNo": "11620-2025-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "JW공인중개사사무소",
+    "regNo": "11620-2025-00012",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아이비부동산공인중개사사무소",
+    "regNo": "11620-2025-00014",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명성공인중개사사무소 ",
+    "regNo": "11620-2025-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한결공인중개사사무소",
+    "regNo": "11620-2025-00017",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "11620-2025-00018",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "열린공인중개사사무소",
+    "regNo": "11620-2025-00019",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "가나부동산공인중개사사무소",
+    "regNo": "11620-2025-00020",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "당근공인중개사사무소",
+    "regNo": "11620-2025-00023",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "훼미리공인중개사사무소",
+    "regNo": "11620-2025-00025",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "더조은공인중개사사무소",
+    "regNo": "11620-2025-00026",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "정문(e편한단지내02-877-0377)공인중개사사무소",
+    "regNo": "11620-2025-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은공인중개사사무소",
+    "regNo": "11620-2025-00028",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은부동산공인중개사사무소",
+    "regNo": "11620-2025-00029",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신세계(단지내)공인중개사사무소",
+    "regNo": "11620-2025-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참공인중개사사무소",
+    "regNo": "11620-2025-00036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "가람공인중개사사무소",
+    "regNo": "11620-2025-00039",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "와공인중개사사무소",
+    "regNo": "11620-2025-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운단지내부동산중개법인주식회사",
+    "regNo": "11620-2025-00041",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미스터공인중개사사무소",
+    "regNo": "11620-2025-00042",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "럭스공인중개사사무소",
+    "regNo": "11620-2025-00044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "애나네공인중개사사무소",
+    "regNo": "11620-2025-00050",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참좋은부동산공인중개사사무소",
+    "regNo": "11620-2025-00051",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이음공인중개사사무소",
+    "regNo": "11620-2025-00052",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "햇살부동산중개사무소",
+    "regNo": "11620-2025-00053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서벤푸단지내정문(02-704-0003)공인중개사사무소",
+    "regNo": "11620-2025-00054",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "비전부동산공인중개사사무소",
+    "regNo": "11620-2025-00056",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스타공인중개사사무소",
+    "regNo": "11620-2025-00058",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동아공인중개사사무소",
+    "regNo": "11620-2025-00062",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2025-00065",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사대륙개발부동산중개법인",
+    "regNo": "11620-2025-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "봉천역공인중개사사무소",
+    "regNo": "11620-2025-00069",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대지부동산(단지내02-887-4949)공인중개사사무소",
+    "regNo": "92480000-2308",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세림공인중개사사무소",
+    "regNo": "9250-10584",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "랜드공인중개사사무소",
+    "regNo": "9250-5528",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "송홍영공인중개사사무소",
+    "regNo": "9251-8733",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "베스트공인중개사사무소",
+    "regNo": "9253-7728",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명가공인중개사사무소",
+    "regNo": "가-3610-6884",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "KPC한국자산공인중개사사무소",
+    "regNo": "가-3610-6907",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샛별공인중개사사무소",
+    "regNo": "가-36900000-01136",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대부동산중개사무소",
+    "regNo": "가-92480000-00006",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우성부동산중개사무소",
+    "regNo": "가-92480000-00032",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우성사부동산중개인사무소",
+    "regNo": "가-92480000-00217",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성부동산중개인사무소",
+    "regNo": "가-92480000-00441",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신촌부동산중개인사무소",
+    "regNo": "가-92480000-00592",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부흥부동산중개사무소",
+    "regNo": "가-92480000-00595",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운부동산중개사무소",
+    "regNo": "가-92480000-00600",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴-코리아부동산중개사무소",
+    "regNo": "가-92480000-00683",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한진부동산중개인사무소",
+    "regNo": "가-92480000-00707",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "경신부동산중개사무소",
+    "regNo": "가-92480000-00764",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "광흥부동산중개인사무소",
+    "regNo": "가-92480000-00850",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남부동산중개사무소",
+    "regNo": "가-92480000-00901",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세종부동산중개사무소",
+    "regNo": "가-92480000-00966",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서원부동산중개사무소",
+    "regNo": "가-92480000-01036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림부동산중개사무소",
+    "regNo": "가-92480000-01131",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운부동산중개사무소",
+    "regNo": "가-92480000-01222",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은혜부동산중개사무소",
+    "regNo": "가-92480000-01224",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "가3622-08-풍양051",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복한공인중개사사무소",
+    "regNo": "가3664-1807",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마을부동산중개사무소",
+    "regNo": "가92480000-01104",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울부동산중개",
+    "regNo": "가92480000-84",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대명부동산중개인사무소",
+    "regNo": "나-92480000-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "본동두산단지(02-889-5308)부동산중개사무소",
+    "regNo": "나-92480000-00094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우정부동산중개사무소",
+    "regNo": "나-92480000-00273",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대부동산중개사무소",
+    "regNo": "나-92480000-00394",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "JJ공인중개사사무소",
+    "regNo": "92480000-05106",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "영신개발부동산중개",
+    "regNo": "나-92480000-00650",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "충남부동산중개사무소",
+    "regNo": "나-92480000-00791",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "(이편한)수복사부동산중개인사무소",
+    "regNo": "나-92480000-00969",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명가(단지내상가02-877-2223)공인중개사사무소",
+    "regNo": "11620-2026-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스카이공인중개사사무소",
+    "regNo": "11620-2026-00028",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미루공인중개사사무소",
+    "regNo": "11620-2026-00029",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나우부동산공인중개사사무소",
+    "regNo": "11620-2026-00031",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동화공인중개사사무소",
+    "regNo": "11620-2015-00055",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "11620-2015-00061",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼정공인중개사사무소",
+    "regNo": "11620-2015-00075",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "11620-2015-00077",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대신공인중개사사무소",
+    "regNo": "11620-2015-00078",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "11620-2015-00080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "인연부동산공인중개사사무소",
+    "regNo": "11620-2015-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "열린공인중개사사무소",
+    "regNo": "11620-2015-00100",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "팔구사공인중개사사무소",
+    "regNo": "11620-2015-00101",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "캠퍼스공인중개사사무소",
+    "regNo": "11620-2015-00117",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "파인애플공인중개사사무소",
+    "regNo": "11620-2015-00127",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "럭키공인중개사사무소",
+    "regNo": "11620-2015-00143",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "센트씨엘제일공인중개사사무소",
+    "regNo": "11620-2015-00146",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "역전공인중개사사무소",
+    "regNo": "11620-2015-00151",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홈런공인중개사사무소",
+    "regNo": "11620-2015-00166",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샛별공인중개사사무소",
+    "regNo": "11620-2015-00167",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오복공인중개사사무소",
+    "regNo": "11620-2015-00169",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "쌍용공인중개사사무소",
+    "regNo": "11620-2015-00171",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남강공인중개사사무소",
+    "regNo": "11620-2015-00174",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한강(단지내상가)공인중개사사무소",
+    "regNo": "11620-2016-00005",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대명공인중개사사무소",
+    "regNo": "11620-2016-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산라이프공인중개사사무소",
+    "regNo": "11620-2016-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남공인중개사사무소",
+    "regNo": "11620-2016-00016",
+    "status": "휴업",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마루공인중개사사무소",
+    "regNo": "11620-2016-00024",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오복공인중개사사무소",
+    "regNo": "11620-2016-00032",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "9동공인중개사사무소",
+    "regNo": "11620-2016-00037",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "갑종공인중개사사무소",
+    "regNo": "11620-2016-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "진성공인중개사사무소",
+    "regNo": "11620-2016-00051",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "21세기공인중개사사무소",
+    "regNo": "11620-2016-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한성공인중개사사무소",
+    "regNo": "11620-2016-00089",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림역원룸상가복공인중개사사무소",
+    "regNo": "11620-2016-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸부동산공인중개사사무소",
+    "regNo": "11620-2016-00106",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "보라매공인중개사사무소",
+    "regNo": "11620-2016-00156",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대원공인중개사사무소",
+    "regNo": "11620-2016-00158",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "풍성공인중개사사무소",
+    "regNo": "11620-2016-00161",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "쉼표공인중개사사무소",
+    "regNo": "11620-2025-00071",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유영기공인중개사사무소",
+    "regNo": "11620-2025-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "브라더공인중개사사무소",
+    "regNo": "11620-2025-00074",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악구부동산공인중개사사무소",
+    "regNo": "11620-2025-00075",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리부동산공인중개사사무소",
+    "regNo": "11620-2025-00076",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "탑공인중개사사무소",
+    "regNo": "11620-2025-00078",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마이홈공인중개사사무소",
+    "regNo": "11620-2025-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한국공인중개사사무소",
+    "regNo": "11620-2025-00085",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "캐슬공인중개사사무소",
+    "regNo": "11620-2025-00086",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸공인중개사사무소",
+    "regNo": "11620-2025-00088",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "네오관악푸르지오(단지내)공인중개사사무소",
+    "regNo": "11620-2025-00089",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "네오관악푸르지오부동산공인중개사사무소",
+    "regNo": "11620-2025-00090",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나라공인중개사사무소",
+    "regNo": "11620-2025-00093",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악센트씨엘정문(877-1002-단지내)공인중개사사무소",
+    "regNo": "11620-2025-00094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선호공인중개사사무소",
+    "regNo": "11620-2025-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바다부동산공인중개사사무소",
+    "regNo": "11620-2025-00096",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "탑공인중개사사무소",
+    "regNo": "11620-2025-00097",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "연세공인중개사사무소",
+    "regNo": "11620-2025-00099",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "소유공인중개사사무소",
+    "regNo": "11620-2026-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하이원공인중개사사무소",
+    "regNo": "11620-2026-00068",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "프라임공인중개사사무소",
+    "regNo": "11620-2026-00069",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악드림일등공인중개사사무소",
+    "regNo": "11620-2026-00070",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "노크부동산공인중개사사무소",
+    "regNo": "11620-2026-00071",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "홍가네부동산공인중개사사무소",
+    "regNo": "11620-2026-00072",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한마음공인중개사사무소",
+    "regNo": "11620-2026-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "온누리공인중개사사무소",
+    "regNo": "11620-2026-00074",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관전타워공인중개사사무소",
+    "regNo": "11620-2026-00075",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "도림공인중개사사무소",
+    "regNo": "11620-2026-00077",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "씨티공인중개사사무소",
+    "regNo": "11620-2026-00078",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이제공인중개사사무소",
+    "regNo": "11620-2026-00079",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "11620-2026-00080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에이스공인중개사사무소",
+    "regNo": "11620-2026-00081",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "진공인중개사사무소",
+    "regNo": "11620-2026-00082",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "11620-2026-00083",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "착한공인중개사사무소",
+    "regNo": "11620-2016-00178",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대원부동산공인중개사사무소",
+    "regNo": "11620-2016-00203",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금빛부동산공인중개사사무소",
+    "regNo": "11620-2026-00032",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "채움공인중개사사무소",
+    "regNo": "11620-2026-00033",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제이피아이공인중개사사무소",
+    "regNo": "11620-2026-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "용공인중개사사무소",
+    "regNo": "11620-2026-00035",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신세계공인중개사사무소",
+    "regNo": "11620-2026-00037",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "케이에스디부동산중개법인",
+    "regNo": "11620-2026-00038",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해피랜드공인중개사사무소",
+    "regNo": "11620-2026-00039",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "채움부동산공인중개사사무소",
+    "regNo": "11620-2026-00040",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "DW공인중개사사무소",
+    "regNo": "11620-2026-00041",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오름부동산공인중개사사무소",
+    "regNo": "11620-2026-00042",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "오늘의부동산공인중개사사무소",
+    "regNo": "11620-2026-00043",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "당근공인중개사사무소",
+    "regNo": "11620-2026-00044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스타공인중개사사무소",
+    "regNo": "11620-2026-00045",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴삼성공인중개사사무소",
+    "regNo": "11620-2026-00046",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제로원공인중개사사무소",
+    "regNo": "11620-2026-00047",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해온공인중개사사무소",
+    "regNo": "11620-2026-00048",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리부동산중개",
+    "regNo": "11620-2026-00049",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "코끼리공인중개사사무소",
+    "regNo": "11620-2026-00050",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "코끼리부동산공인중개사사무소",
+    "regNo": "11620-2026-00051",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "무브부동산공인중개사사무소",
+    "regNo": "11620-2026-00052",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원공인중개사사무소",
+    "regNo": "11620-2026-00053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남공인중개사사무소",
+    "regNo": "11620-2026-00055",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샤로수길성수부동산공인중개사사무소",
+    "regNo": "11620-2026-00057",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "든든한공인중개사사무소",
+    "regNo": "11620-2026-00058",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "럭키1공인중개사사무소",
+    "regNo": "11620-2026-00059",
+    "status": "휴업",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "널위한부동산공인중개사사무소",
+    "regNo": "11620-2026-00060",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아너공인중개사사무소",
+    "regNo": "11620-2026-00061",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사범고래부동산중개법인",
+    "regNo": "11620-2026-00062",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한솔부동산공인중개사사무소",
+    "regNo": "11620-2026-00063",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "TOP공인중개사사무소",
+    "regNo": "11620-2026-00064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바다부동산공인중개사사무소",
+    "regNo": "11620-2026-00065",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한빛공인중개사사무소",
+    "regNo": "11620-2026-00066",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "TheK공인중개사사무소",
+    "regNo": "11620-2026-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "인정공인중개사사무소",
+    "regNo": "11620-2026-00085",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아카데미부동산공인중개사사무소",
+    "regNo": "11620-2026-00086",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "럭키부동산공인중개사사무소",
+    "regNo": "11620-2026-00087",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "고래부동산공인중개사사무소",
+    "regNo": "11620-2026-00088",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나인공인중개사사무소",
+    "regNo": "11620-2026-00089",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴코업공인중개사사무소",
+    "regNo": "11620-2026-00090",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다온공인중개사사무소",
+    "regNo": "11620-2026-00091",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복(단지내02-875-3100)공인중개사사무소",
+    "regNo": "11620-2026-00092",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이음공인중개사사무소",
+    "regNo": "11620-2026-00093",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "와우부동산공인중개사사무소",
+    "regNo": "11620-2026-00094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남다른복덕방공인중개사사무소",
+    "regNo": "11620-2026-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사365부동산중개법인",
+    "regNo": "11620-2026-00096",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "햇살부동산공인중개사사무소",
+    "regNo": "11620-2026-00097",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "장순자공인중개사사무소",
+    "regNo": "11620-2026-00098",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선한부동산공인중개사사무소",
+    "regNo": "11620-2026-00099",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "공감공인중개사사무소",
+    "regNo": "11620-2026-00100",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "숲공인중개사사무소",
+    "regNo": "11620-2026-00101",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성공부동산중개",
+    "regNo": "11620-2026-00102",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "인생부동산중개사무소",
+    "regNo": "11620-2026-00103",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "11620-2026-00104",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대명공인중개사사무소",
+    "regNo": "11620-2026-00105",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "산들공인중개사사무소",
+    "regNo": "11620-2026-00106",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "메이트공인중개사사무소",
+    "regNo": "11620-2026-00107",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "벧엘공인중개사사무소",
+    "regNo": "11620-2026-00108",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "애스크공인중개사사무소",
+    "regNo": "11620-2026-00109",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산중개드림",
+    "regNo": "11620-2026-00110",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악공인중개사사무소",
+    "regNo": "11620-2026-00111",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성우공인중개사사무소",
+    "regNo": "11620-2026-00112",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다온공인중개사사무소",
+    "regNo": "11620-2026-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유성공인중개사사무소",
+    "regNo": "11620-2026-00114",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중건공인중개사사무소",
+    "regNo": "11620-2026-00115",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우먼파워공인중개사사무소",
+    "regNo": "11650-2015-00306",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신평화공인중개사사무소",
+    "regNo": "11650-2016-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에이스공인중개사사무소",
+    "regNo": "11620-2016-00215",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한양공인중개사사무소",
+    "regNo": "11620-2016-00227",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "블루밍(단지내02-877-5055)공인중개사사무소",
+    "regNo": "11620-2016-00229",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양부동산공인중개사사무소",
+    "regNo": "11620-2016-00236",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "위너스공인중개사사무소",
+    "regNo": "11620-2016-00237",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부경공인중개사사무소",
+    "regNo": "11620-2016-00238",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "감각공인중개사사무소",
+    "regNo": "11620-2016-00240",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "11620-2017-00002",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조이부동산공인중개사사무소",
+    "regNo": "11620-2017-00007",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴경록공인중개사사무소",
+    "regNo": "11620-2017-00010",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "보물공인중개사사무소",
+    "regNo": "11620-2017-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강일공인중개사사무소",
+    "regNo": "11620-2017-00012",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "번영부동산공인중개사사무소",
+    "regNo": "11620-2017-00018",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "센츄리공인중개사사무소",
+    "regNo": "11620-2017-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "톡톡부동산공인중개사사무소",
+    "regNo": "11620-2017-00030",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은천공인중개사사무소",
+    "regNo": "11620-2017-00036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "로드빌부동산중개",
+    "regNo": "11620-2017-00046",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세종공인중개사사무소",
+    "regNo": "11620-2017-00049",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "11620-2017-00053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산뱅크공인중개사사무소",
+    "regNo": "11620-2017-00070",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "색다른공인중개사사무소",
+    "regNo": "11620-2017-00080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주택114공인중개사사무소",
+    "regNo": "11620-2017-00081",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한국부동산중개",
+    "regNo": "11620-2017-00084",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서민정공인중개사사무소",
+    "regNo": "11620-2017-00103",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대박공인중개사사무소",
+    "regNo": "11620-2017-00119",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이룸공인중개사사무소",
+    "regNo": "11620-2017-00129",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "학사공인중개사사무소",
+    "regNo": "11620-2017-00140",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한빛공인중개사사무소",
+    "regNo": "11620-2017-00141",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "(주)드림부동산중개",
+    "regNo": "11620-2017-00164",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이편한유경공인중개사사무소",
+    "regNo": "11620-2017-00187",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명가공인중개사사무소",
+    "regNo": "11620-2017-00196",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금성공인중개사사무소",
+    "regNo": "11620-2017-00199",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울대부동산공인중개사사무소",
+    "regNo": "11620-2017-00204",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참조은공인중개사사무소",
+    "regNo": "11620-2017-00212",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "건영부동산공인중개사사무소",
+    "regNo": "11620-2017-00217",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현선공인중개사사무소",
+    "regNo": "11620-2017-00220",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산시티공인중개사사무소",
+    "regNo": "11620-2017-00233",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청학공인중개사사무소",
+    "regNo": "11620-2017-00235",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "포시즌I공인중개사사무소",
+    "regNo": "11680-2017-00384",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "블루부동산공인중개사사무소",
+    "regNo": "28200-2016-07640",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대승부동산공인중개사사무소",
+    "regNo": "29200-2017-00181",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "광장부동산공인중개사사무소",
+    "regNo": "11620-2018-00053",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태평양(단지내 상가02-3285-7000)공인중개사사무소",
+    "regNo": "36220000-02293",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복한공인중개사사무소",
+    "regNo": "41117-2017-00093",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "드림명문공인중개사사무소",
+    "regNo": "41273-2015-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울부동산공인중개사사무소",
+    "regNo": "92380000-3416",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "석화공인중개사사무소",
+    "regNo": "92420000-4096",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92430000-00598",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "92430000-414",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "열린(센트레빌단지내)공인중개사사무소",
+    "regNo": "92440000-05903",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명가공인중개사사무소",
+    "regNo": "92440000-07507",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "92460000-02158",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "연공인중개사사무소",
+    "regNo": "9248000-04130",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동현공인중개사사무소",
+    "regNo": "9248000-04689",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성대공인중개사사무소",
+    "regNo": "92480000-00076",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸(힐스테이트02-868-0034)공인중개사사무소",
+    "regNo": "92480000-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신신공인중개사사무소",
+    "regNo": "92480000-00150",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "백상공인중개사사무소",
+    "regNo": "92480000-00321",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "양지공인중개사사무소",
+    "regNo": "92480000-00347",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성부동산공인중개사사무소",
+    "regNo": "92480000-00484",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서진공인중개사사무소",
+    "regNo": "92480000-00654",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대덕공인중개사사무소",
+    "regNo": "92480000-00932",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "수현공인중개사사무소",
+    "regNo": "11620-2017-00242",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "원공인중개사사무소",
+    "regNo": "11620-2017-00248",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "새마을부동산공인중개사사무소",
+    "regNo": "11620-2018-00002",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유앤아이공인중개사사무소",
+    "regNo": "11620-2018-00007",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금산지공인중개사사무소",
+    "regNo": "11620-2018-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "보성공인중개사사무소",
+    "regNo": "11620-2018-00022",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성문공인중개사사무소",
+    "regNo": "11620-2018-00024",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "학사(우성단지내)공인중개사사무소",
+    "regNo": "11620-2018-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서림공인중개사사무소",
+    "regNo": "11620-2018-00045",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해성공인중개사사무소",
+    "regNo": "11620-2018-00052",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에덴공인중개사사무소",
+    "regNo": "11620-2018-00059",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지성(단지앞)공인중개사사무소",
+    "regNo": "11620-2018-00062",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한강공인중개사사무소",
+    "regNo": "11620-2018-00074",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부자공인중개사사무소",
+    "regNo": "11620-2018-00075",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금강공인중개사사무소",
+    "regNo": "11620-2018-00102",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "희망(단지내)공인중개사사무소",
+    "regNo": "11620-2018-00112",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운(이편한02-886-7111)공인중개사사무소",
+    "regNo": "11620-2018-00115",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "남여칠세부동산공인중개사사무소",
+    "regNo": "11620-2018-00117",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마트공인중개사사무소",
+    "regNo": "11620-2018-00120",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명성공인중개사사무소",
+    "regNo": "11620-2018-00128",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운부동산공인중개사사무소",
+    "regNo": "11620-2018-00137",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샘터(02-886-3333)공인중개사사무소",
+    "regNo": "11620-2018-00171",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "궁전부동산공인중개사사무소",
+    "regNo": "11620-2018-00172",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "국민공인중개사사무소",
+    "regNo": "11620-2018-00173",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이화공인중개사사무소",
+    "regNo": "11620-2018-00176",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울대(e편한02-879-0011)공인중개사사무소",
+    "regNo": "11620-2018-00217",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서희공인중개사사무소",
+    "regNo": "11620-2018-00232",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "네모공인중개사사무소",
+    "regNo": "11620-2018-00251",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "11620-2018-00256",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "123공인중개사사무소",
+    "regNo": "11620-2018-00259",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일큰공인중개사사무소",
+    "regNo": "11620-2018-00260",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신성공인중개사사무소",
+    "regNo": "11620-2018-00263",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성심공인중개사사무소",
+    "regNo": "11620-2019-00001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이레(현대단지내)공인중개사사무소",
+    "regNo": "11620-2019-00004",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "타이밍공인중개사사무소",
+    "regNo": "11620-2019-00014",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다올공인중개사사무소",
+    "regNo": "11620-2019-00019",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "화담공인중개사사무소",
+    "regNo": "11620-2019-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이화공인중개사사무소",
+    "regNo": "11620-2019-00058",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "씨앤씨공인중개사사무소",
+    "regNo": "11620-2019-00061",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "샤인공인중개사사무소",
+    "regNo": "11620-2019-00064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴에이스공인중개사사무소",
+    "regNo": "11620-2019-00068",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성리치공인중개사사무소",
+    "regNo": "11620-2019-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "벽산뱅크공인중개사사무소",
+    "regNo": "11620-2019-00074",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하늘땅공인중개사사무소",
+    "regNo": "11620-2019-00079",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양공인중개사사무소",
+    "regNo": "11620-2019-00095",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금부동산공인중개사사무소",
+    "regNo": "11620-2019-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "헬로부동산공인중개사사무소",
+    "regNo": "11620-2019-00128",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대림(e편한단지내)공인중개사사무소",
+    "regNo": "11620-2019-00131",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제이부동산중개",
+    "regNo": "11620-2019-00132",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "일등공인중개사사무소",
+    "regNo": "11620-2019-00135",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동아공인중개사사무소",
+    "regNo": "11620-2019-00139",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하늘공인중개사사무소",
+    "regNo": "11620-2019-00158",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성덕공인중개사사무소",
+    "regNo": "11620-2019-00171",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "나라부동산공인중개사사무소",
+    "regNo": "11620-2019-00173",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청솔파크뷰공인중개사사무소",
+    "regNo": "11620-2019-00175",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "OK공인중개사사무소",
+    "regNo": "11620-2019-00181",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "찰리공인중개사사무소",
+    "regNo": "11620-2019-00184",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "굿프렌드(02-3285-1234)공인중개사사무소",
+    "regNo": "11620-2019-00188",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유니공인중개사사무소",
+    "regNo": "11620-2019-00190",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "더드림부동산공인중개사사무소",
+    "regNo": "11620-2019-00191",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "119부동산공인중개사사무소",
+    "regNo": "11620-2019-00196",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금빛공인중개사사무소",
+    "regNo": "11620-2019-00202",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "토토공인중개사사무소",
+    "regNo": "11620-2019-00203",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "온누리공인중개사사무소",
+    "regNo": "11620-2019-00204",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대성부동산공인중개사사무소",
+    "regNo": "11620-2019-00205",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바른부동산공인중개사사무소",
+    "regNo": "11620-2019-00206",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복공인중개사사무소",
+    "regNo": "11620-2019-00211",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "리츠공인중개사사무소",
+    "regNo": "11620-2019-00213",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "11620-2019-00222",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해승공인중개사사무소",
+    "regNo": "11620-2020-00001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "마이더스공인중개사사무소",
+    "regNo": "11620-2020-00005",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사디엠부동산중개법인",
+    "regNo": "11620-2020-00010",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "코끼리공인중개사사무소",
+    "regNo": "11620-2020-00012",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나부동산중개사무소",
+    "regNo": "92480000-00954",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남공인중개사사무소",
+    "regNo": "92480000-00958",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래공인중개사사무소",
+    "regNo": "92480000-01110",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대경공인중개사사무소",
+    "regNo": "92480000-01170",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대성공인중개사사무소",
+    "regNo": "92480000-01176",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸공인중개사사무소",
+    "regNo": "92480000-01185",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "건영공인중개사사무소",
+    "regNo": "92480000-01187",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명성공인중개사사무소",
+    "regNo": "92480000-01241",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸공인중개사사무소",
+    "regNo": "92480000-01267",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "92480000-01301",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산뱅크청일공인중개사사무소",
+    "regNo": "92480000-01324",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "까치공인중개사사무소",
+    "regNo": "92480000-01358",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "금강공인중개사사무소",
+    "regNo": "92480000-01368",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "김경옥공인중개사사무소",
+    "regNo": "92480000-01456",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "공간나라부동산공인중개사사무소",
+    "regNo": "11620-2020-00017",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미소공인중개사사무소",
+    "regNo": "11620-2020-00019",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소(단지내)",
+    "regNo": "11620-2020-00025",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "도시공인중개사사무소",
+    "regNo": "11620-2020-00027",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "용(02-886-7171 단지내)공인중개사사무소",
+    "regNo": "11620-2020-00028",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "단지안명문공인중개사사무소",
+    "regNo": "11620-2020-00033",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "파트너공인중개사사무소",
+    "regNo": "11620-2020-00044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대호공인중개사사무소",
+    "regNo": "11620-2020-00050",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "선양공인중개사사무소",
+    "regNo": "11620-2020-00055",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "호박공인중개사사무소",
+    "regNo": "11620-2020-00058",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "일우공인중개사사무소",
+    "regNo": "11620-2020-00060",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "토마토공인중개사사무소",
+    "regNo": "11620-2020-00064",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2020-00067",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우방공인중개사사무소",
+    "regNo": "11620-2020-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "시티공인중개사사무소",
+    "regNo": "11620-2020-00087",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마일공인중개사사무소",
+    "regNo": "11620-2020-00092",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지평공인중개사사무소",
+    "regNo": "11620-2020-00094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미다스공인중개사사무소",
+    "regNo": "11620-2020-00101",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "그린(02-877-4811)공인중개사사무소",
+    "regNo": "11620-2020-00107",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림부동산공인중개사사무소",
+    "regNo": "11620-2020-00115",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "청호(e편한단지내02-882-3030)공인중개사사무소",
+    "regNo": "11620-2020-00117",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "위너스공인중개사사무소",
+    "regNo": "11620-2020-00129",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "든든한우리집공인중개사사무소",
+    "regNo": "11620-2020-00131",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "열매공인중개사사무소",
+    "regNo": "11620-2020-00134",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "골드공인중개사사무소",
+    "regNo": "11620-2020-00135",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "푸르지오공인중개사사무소",
+    "regNo": "11620-2020-00138",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사업타운부동산중개법인",
+    "regNo": "11620-2020-00144",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해인공인중개사사무소",
+    "regNo": "11620-2020-00154",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서은공인중개사사무소",
+    "regNo": "11620-2020-00163",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "11620-2020-00170",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "무지개부동산공인중개사사무소",
+    "regNo": "11620-2020-00173",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "장군공인중개사사무소",
+    "regNo": "11620-2020-00177",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴행운공인중개사사무소",
+    "regNo": "11620-2020-00178",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "11620-2020-00182",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참공인중개사사무소",
+    "regNo": "11620-2020-00184",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "탑공인중개사사무소",
+    "regNo": "92480000-01638",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우정부동산월드공인중개사사무소",
+    "regNo": "92480000-01642",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "재테크공인중개사사무소",
+    "regNo": "92480000-01714",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "92480000-01727",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "까치부동산공인중개사사무소",
+    "regNo": "92480000-01747",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다솜공인중개사사무소",
+    "regNo": "92480000-01766",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "덕양공인중개사사무소",
+    "regNo": "92480000-01849",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이편한까치(883-0098)공인중개사사무소",
+    "regNo": "92480000-01892",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "OK부동산공인중개사사무소",
+    "regNo": "92480000-01906",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-01931",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "사랑공인중개사사무소",
+    "regNo": "92480000-01940",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "매일공인중개사사무소",
+    "regNo": "92480000-01979",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "왕성공인중개사사무소",
+    "regNo": "92480000-02026",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92480000-02036",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "92480000-02056",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "천일공인중개사사무소",
+    "regNo": "92480000-02080",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "경인공인중개사사무소",
+    "regNo": "92480000-02094",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴스마일공인중개사사무소",
+    "regNo": "92480000-02103",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "일칠사오부동산공인중개사사무소",
+    "regNo": "92480000-02124",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세양공인중개사사무소",
+    "regNo": "92480000-02139",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "열린공인중개사사무소",
+    "regNo": "92480000-02166",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "92480000-02207",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미성공인중개사사무소",
+    "regNo": "92480000-02212",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부자(단지내상가 02-882-5700)공인중개사사무소",
+    "regNo": "92480000-02235",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "초록사과(단지내상가 02-3285-8100)공인중개사사무소",
+    "regNo": "92480000-02241",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "낙성대공인중개사사무소",
+    "regNo": "92480000-02272",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "포시즌공인중개사사무소",
+    "regNo": "92480000-02274",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대덕공인중개사사무소",
+    "regNo": "92480000-02304",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산랜드공인중개사사무소",
+    "regNo": "92480000-02312",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "세인공인중개사사무소",
+    "regNo": "92480000-02319",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나공인중개사사무소",
+    "regNo": "92480000-02323",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동서공인중개사사무소",
+    "regNo": "92480000-02370",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "미래(단지내02-889-0660)공인중개사사무소",
+    "regNo": "92480000-02376",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "명가공인중개사사무소",
+    "regNo": "92480000-02377",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "경제공인중개사사무소",
+    "regNo": "92480000-02448",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대공인중개사사무소",
+    "regNo": "92480000-02481",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "웰빙공인중개사사무소",
+    "regNo": "92480000-02518",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대한공인중개사사무소",
+    "regNo": "92480000-02527",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대성공인중개사사무소",
+    "regNo": "92480000-02536",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다름공인중개사사무소",
+    "regNo": "11620-2020-00191",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참좋은공인중개사사무소",
+    "regNo": "11620-2020-00194",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "아이플러스공인중개사사무소",
+    "regNo": "11620-2020-00205",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "빅터공인중개사사무소",
+    "regNo": "11620-2020-00208",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우정위버폴리스공인중개사사무소",
+    "regNo": "11620-2020-00218",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "에덴공인중개사사무소",
+    "regNo": "11620-2020-00221",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "다올공인중개사사무소",
+    "regNo": "11620-2020-00222",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한길공인중개사사무소",
+    "regNo": "11620-2020-00226",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "슬기로운공인중개사사무소",
+    "regNo": "11620-2021-00001",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대한공인중개사사무소",
+    "regNo": "11620-2021-00004",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한양(단지내02-882-6114)공인중개사사무소",
+    "regNo": "11620-2021-00009",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대림공인중개사사무소",
+    "regNo": "11620-2021-00014",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스타공인중개사사무소",
+    "regNo": "11620-2021-00022",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악파크푸르지오공인중개사사무소",
+    "regNo": "11620-2021-00029",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "유앤아이공인중개사사무소",
+    "regNo": "11620-2021-00031",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "최강(02-887-8988단지내)부동산공인중개사사무소",
+    "regNo": "11620-2021-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부자되는부동산공인중개사사무소",
+    "regNo": "11620-2021-00037",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "태양공인중개사사무소",
+    "regNo": "11620-2021-00039",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼성공인중개사사무소",
+    "regNo": "11620-2021-00044",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "11620-2021-00046",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "해성공인중개사사무소",
+    "regNo": "11620-2021-00059",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "굿모닝공인중개사사무소",
+    "regNo": "11620-2021-00065",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "정평공인중개사사무소",
+    "regNo": "11620-2021-00069",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스타부동산공인중개사사무소",
+    "regNo": "11620-2021-00073",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "주식회사위시스부동산중개법인",
+    "regNo": "11620-2021-00078",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "트임공인중개사사무소",
+    "regNo": "11620-2021-00088",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이레컨설팅공인중개사사무소",
+    "regNo": "11620-2021-00090",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "건영단지내공인중개사사무소",
+    "regNo": "11620-2021-00093",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "SKY공인중개사사무소",
+    "regNo": "11620-2021-00105",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소",
+    "regNo": "11620-2021-00107",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신림맥부동산공인중개사사무소",
+    "regNo": "11620-2021-00113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "까치부동산공인중개사사무소",
+    "regNo": "11620-2021-00118",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "11620-2021-00119",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "서울공인중개사사무소",
+    "regNo": "11620-2021-00120",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "모던공인중개사사무소",
+    "regNo": "11620-2021-00122",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "파크공인중개사사무소",
+    "regNo": "11620-2021-00124",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "평화공인중개사사무소",
+    "regNo": "11620-2021-00130",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동양공인중개사사무소",
+    "regNo": "11620-2021-00138",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "GL공인중개사사무소",
+    "regNo": "11620-2021-00140",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대성공인중개사사무소",
+    "regNo": "11620-2021-00141",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "몽땅공인중개사사무소",
+    "regNo": "11620-2021-00143",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "동성공인중개사사무소",
+    "regNo": "11620-2021-00145",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "두산(02-882-3380)공인중개사사무소",
+    "regNo": "11620-2021-00149",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "낙성대공인중개사사무소",
+    "regNo": "11620-2021-00160",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "(단지내)서울e부동산중개사무소",
+    "regNo": "11620-2021-00167",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "중앙공인중개사사무소",
+    "regNo": "11620-2021-00173",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금(02-884-0444단지내)공인중개사사무소",
+    "regNo": "11620-2021-00174",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악공인중개사사무소",
+    "regNo": "11620-2021-00176",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "꼬빌부동산공인중개사사무소",
+    "regNo": "11620-2021-00178",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "디딤돌공인중개사사무소",
+    "regNo": "11620-2021-00180",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "DH공인중개사사무소",
+    "regNo": "11620-2021-00182",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "뉴스타공인중개사사무소",
+    "regNo": "11620-2021-00186",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "조은부동산공인중개사사무소",
+    "regNo": "11620-2021-00189",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "88공인중개사사무소",
+    "regNo": "11620-2021-00191",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마일공인중개사사무소",
+    "regNo": "11620-2021-00197",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "드림공인중개사사무소",
+    "regNo": "11620-2021-00199",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "관악오피스공인중개사사무소",
+    "regNo": "11620-2021-00201",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "라라공인중개사사무소",
+    "regNo": "11620-2021-00207",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "LBA하나(단지내02-888-6880)공인중개사사무소",
+    "regNo": "11620-2021-00210",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "이화공인중개사사무소",
+    "regNo": "11620-2021-00212",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산뉴스공인중개사사무소",
+    "regNo": "11620-2021-00218",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "씨엘공인중개사사무소",
+    "regNo": "11620-2022-00003",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "온부동산공인중개사사무소",
+    "regNo": "11620-2022-00011",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드부동산공인중개사사무소",
+    "regNo": "11620-2022-00013",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하이츠공인중개사사무소",
+    "regNo": "11620-2022-00015",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "덕산공인중개사사무소",
+    "regNo": "11620-2022-00018",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "바른공인중개사사무소",
+    "regNo": "11620-2022-00023",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "2층공인중개사사무소",
+    "regNo": "11620-2022-00026",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "좋은사람들공인중개사사무소",
+    "regNo": "11620-2022-00029",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부광공인중개사사무소",
+    "regNo": "11620-2022-00034",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "지음공인중개사사무소",
+    "regNo": "11620-2021-00123",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "강남공인중개사사무소",
+    "regNo": "92480000-02538",
+    "status": "휴업",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "92480000-02587",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소",
+    "regNo": "92480000-02591",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "부동산뉴스공인중개사사무소",
+    "regNo": "92480000-02597",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현대부자공인중개사사무소",
+    "regNo": "92480000-02657",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "스마일(단지내02-888-6500)공인중개사사무소",
+    "regNo": "92480000-02658",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대영부동산중개사무소",
+    "regNo": "92480000-02663",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성지공인중개사사무소",
+    "regNo": "92480000-02700",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "은혜공인중개사사무소",
+    "regNo": "92480000-02707",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92480000-02730",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼일공인중개사사무소",
+    "regNo": "92480000-02740",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "성심공인중개사사무소",
+    "regNo": "92480000-02746",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "신성공인중개사사무소",
+    "regNo": "92480000-02747",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "황금공인중개사사무소",
+    "regNo": "92480000-02767",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "천지부동산공인중개사사무소",
+    "regNo": "92480000-02770",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "시티공인중개사사무소",
+    "regNo": "92480000-02792",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우리공인중개사사무소",
+    "regNo": "92480000-02814",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "으뜸공인중개사사무소",
+    "regNo": "92480000-02826",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "파크공인중개사사무소",
+    "regNo": "92480000-02848",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "진아공인중개사사무소",
+    "regNo": "92480000-02863",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "제일공인중개사사무소",
+    "regNo": "92480000-02864",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행복화창(단지내02-875-3600)공인중개사사무소",
+    "regNo": "92480000-02868",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "일사천리(단지내***)공인중개사사무소",
+    "regNo": "92480000-02986",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "삼도공인중개사사무소",
+    "regNo": "92480000-02998",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "봉일공인중개사사무소",
+    "regNo": "92480000-02999",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "참부동산공인중개사사무소",
+    "regNo": "92480000-03008",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "LBA굿모닝공인중개사사무소",
+    "regNo": "92480000-03056",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "현미경공인중개사사무소",
+    "regNo": "92480000-03076",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "새터공인중개사사무소",
+    "regNo": "92480000-03088",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "월드공인중개사사무소",
+    "regNo": "92480000-03108",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "전원공인중개사사무소",
+    "regNo": "92480000-03113",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "우진공인중개사사무소",
+    "regNo": "92480000-03157",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "엘림공인중개사사무소",
+    "regNo": "92480000-03182",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "하나공인중개사사무소",
+    "regNo": "92480000-03196",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "휴먼시아(단지내)미래공인중개사사무소",
+    "regNo": "92480000-03250",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "한미부동산공인중개사사무소",
+    "regNo": "92480000-03255",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "행운공인중개사사무소",
+    "regNo": "92480000-03271",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대진공인중개사사무소",
+    "regNo": "92480000-03277",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  },
+  {
+    "name": "대림(단지내 02-876-1400)공인중개사사무소",
+    "regNo": "92480000-03281",
+    "status": "영업중",
+    "sanctionStart": null,
+    "sanctionEnd": null
+  }
+]

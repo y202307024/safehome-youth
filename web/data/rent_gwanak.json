@@ -1,0 +1,5836 @@
+{
+  "source": "서울특별시_전월세가_2025",
+  "builtAt": "2026-11-18T04:34:43.478Z",
+  "data": [
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 4,
+      "avgRent": 52,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 19,
+      "avgRent": 42.1,
+      "avgDeposit": 1347.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 81,
+      "avgRent": 46.9,
+      "avgDeposit": 2045.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 123,
+      "avgRent": 47.4,
+      "avgDeposit": 3156.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 126,
+      "avgRent": 52,
+      "avgDeposit": 2912.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 37,
+      "avgRent": 53.8,
+      "avgDeposit": 2816.2
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 29,
+      "avgRent": 48.3,
+      "avgDeposit": 4206.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 21,
+      "avgRent": 53.4,
+      "avgDeposit": 3271.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 15,
+      "avgRent": 50.2,
+      "avgDeposit": 6400
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 31,
+      "avgRent": 46.4,
+      "avgDeposit": 6851.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 48,
+      "avgRent": 52.9,
+      "avgDeposit": 3829.2
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 16,
+      "avgRent": 50.5,
+      "avgDeposit": 7687.5
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 39,
+      "avgRent": 56.1,
+      "avgDeposit": 7312.8
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 54,
+      "avgRent": 53.1,
+      "avgDeposit": 5292.8
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 22,
+      "avgRent": 55.6,
+      "avgDeposit": 3227.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 22,
+      "avgRent": 64.9,
+      "avgDeposit": 5818.2
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 6,
+      "avgRent": 64.2,
+      "avgDeposit": 7333.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 7,
+      "avgRent": 28,
+      "avgDeposit": 9142.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 11,
+      "avgRent": 53.5,
+      "avgDeposit": 11454.5
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 17,
+      "avgRent": 65.6,
+      "avgDeposit": 4705.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 9,
+      "avgRent": 105.6,
+      "avgDeposit": 5777.8
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 5,
+      "avgRent": 74,
+      "avgDeposit": 12400
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 16,
+      "avgRent": 63.5,
+      "avgDeposit": 11512.5
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 4,
+      "avgRent": 87.5,
+      "avgDeposit": 8000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 4,
+      "avgRent": 42.8,
+      "avgDeposit": 19750
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 4,
+      "avgRent": 96.3,
+      "avgDeposit": 6500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 4,
+      "avgRent": 91.3,
+      "avgDeposit": 3500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 11,
+      "avgRent": 82,
+      "avgDeposit": 7090.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 2,
+      "avgRent": 20,
+      "avgDeposit": 13000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 25000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 4,
+      "avgRent": 100,
+      "avgDeposit": 6750
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 3,
+      "avgRent": 71,
+      "avgDeposit": 7333.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 2,
+      "avgRent": 148,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 3,
+      "avgRent": 83.3,
+      "avgDeposit": 15000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 2,
+      "avgRent": 51,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 20000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 1,
+      "avgRent": 50,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "132-134㎡",
+      "areaMin": 132,
+      "areaMax": 134,
+      "count": 2,
+      "avgRent": 195,
+      "avgDeposit": 7000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "136-138㎡",
+      "areaMin": 136,
+      "areaMax": 138,
+      "count": 2,
+      "avgRent": 5,
+      "avgDeposit": 13000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "180-182㎡",
+      "areaMin": 180,
+      "areaMax": 182,
+      "count": 3,
+      "avgRent": 40,
+      "avgDeposit": 2066.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "204-206㎡",
+      "areaMin": 204,
+      "areaMax": 206,
+      "count": 4,
+      "avgRent": 57.5,
+      "avgDeposit": 2500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "232-234㎡",
+      "areaMin": 232,
+      "areaMax": 234,
+      "count": 2,
+      "avgRent": 45,
+      "avgDeposit": 6000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "단독다가구",
+      "areaBand": "242-244㎡",
+      "areaMin": 242,
+      "areaMax": 244,
+      "count": 2,
+      "avgRent": 53,
+      "avgDeposit": 4000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 6,
+      "avgRent": 68.7,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 7,
+      "avgRent": 70,
+      "avgDeposit": 1571.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 5,
+      "avgRent": 60.6,
+      "avgDeposit": 19200
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 10,
+      "avgRent": 39,
+      "avgDeposit": 34400
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 4,
+      "avgRent": 50,
+      "avgDeposit": 32500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 2,
+      "avgRent": 55,
+      "avgDeposit": 42000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 1,
+      "avgRent": 130,
+      "avgDeposit": 18000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 2,
+      "avgRent": 200,
+      "avgDeposit": 10000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 1,
+      "avgRent": 120,
+      "avgDeposit": 10000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 7,
+      "avgRent": 164.3,
+      "avgDeposit": 18714.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 19,
+      "avgRent": 115.3,
+      "avgDeposit": 29000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "88-90㎡",
+      "areaMin": 88,
+      "areaMax": 90,
+      "count": 6,
+      "avgRent": 20,
+      "avgDeposit": 29833.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 2,
+      "avgRent": 5,
+      "avgDeposit": 40000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "108-110㎡",
+      "areaMin": 108,
+      "areaMax": 110,
+      "count": 2,
+      "avgRent": 100,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "114-116㎡",
+      "areaMin": 114,
+      "areaMax": 116,
+      "count": 1,
+      "avgRent": 103,
+      "avgDeposit": 50000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "132-134㎡",
+      "areaMin": 132,
+      "areaMax": 134,
+      "count": 2,
+      "avgRent": 180,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "아파트",
+      "areaBand": "138-140㎡",
+      "areaMin": 138,
+      "areaMax": 140,
+      "count": 1,
+      "avgRent": 30,
+      "avgDeposit": 50000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 5,
+      "avgRent": 24.6,
+      "avgDeposit": 9280
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 49,
+      "avgRent": 52,
+      "avgDeposit": 2924.5
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 26,
+      "avgRent": 61.1,
+      "avgDeposit": 2692.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 13,
+      "avgRent": 65.6,
+      "avgDeposit": 3984.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 7,
+      "avgRent": 26.7,
+      "avgDeposit": 14028.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 8,
+      "avgRent": 63.4,
+      "avgDeposit": 6000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 15,
+      "avgRent": 56.7,
+      "avgDeposit": 7294.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 18,
+      "avgRent": 44.9,
+      "avgDeposit": 10744.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 21,
+      "avgRent": 45.5,
+      "avgDeposit": 10335.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 56,
+      "avgRent": 42.9,
+      "avgDeposit": 15542.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 2,
+      "avgRent": 25,
+      "avgDeposit": 11000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 12,
+      "avgRent": 31.3,
+      "avgDeposit": 18766.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 5,
+      "avgRent": 48.4,
+      "avgDeposit": 13587.2
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 5,
+      "avgRent": 66.2,
+      "avgDeposit": 4600
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 8,
+      "avgRent": 41.9,
+      "avgDeposit": 18500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 7,
+      "avgRent": 62,
+      "avgDeposit": 5971.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 25,
+      "avgRent": 65.4,
+      "avgDeposit": 13440.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 6,
+      "avgRent": 85.5,
+      "avgDeposit": 5557.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 15,
+      "avgRent": 48.7,
+      "avgDeposit": 9620
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 5,
+      "avgRent": 68,
+      "avgDeposit": 5200
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 5,
+      "avgRent": 86,
+      "avgDeposit": 16200
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 11,
+      "avgRent": 48.5,
+      "avgDeposit": 3363.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 15,
+      "avgRent": 55.3,
+      "avgDeposit": 15495.2
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 6,
+      "avgRent": 108.8,
+      "avgDeposit": 11046.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 8,
+      "avgRent": 50,
+      "avgDeposit": 21750
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 5,
+      "avgRent": 48.4,
+      "avgDeposit": 19780
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 2,
+      "avgRent": 45,
+      "avgDeposit": 25500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 8,
+      "avgRent": 43.8,
+      "avgDeposit": 13500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 6,
+      "avgRent": 84.8,
+      "avgDeposit": 18500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 2,
+      "avgRent": 100,
+      "avgDeposit": 15000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 4,
+      "avgRent": 74.3,
+      "avgDeposit": 11267
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 6,
+      "avgRent": 80,
+      "avgDeposit": 18666.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 2,
+      "avgRent": 130,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 9,
+      "avgRent": 68.3,
+      "avgDeposit": 19377.8
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 1,
+      "avgRent": 40,
+      "avgDeposit": 25000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 2,
+      "avgRent": 20,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "86-88㎡",
+      "areaMin": 86,
+      "areaMax": 88,
+      "count": 4,
+      "avgRent": 36.5,
+      "avgDeposit": 28500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 2,
+      "avgRent": 26,
+      "avgDeposit": 4034
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 1,
+      "avgRent": 35,
+      "avgDeposit": 43000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 3,
+      "avgRent": 45,
+      "avgDeposit": 15000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "118-120㎡",
+      "areaMin": 118,
+      "areaMax": 120,
+      "count": 2,
+      "avgRent": 100,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "132-134㎡",
+      "areaMin": 132,
+      "areaMax": 134,
+      "count": 2,
+      "avgRent": 105,
+      "avgDeposit": 10000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "연립다세대",
+      "areaBand": "142-144㎡",
+      "areaMin": 142,
+      "areaMax": 144,
+      "count": 3,
+      "avgRent": 56.7,
+      "avgDeposit": 13333.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "8-10㎡",
+      "areaMin": 8,
+      "areaMax": 10,
+      "count": 1,
+      "avgRent": 50,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 2,
+      "avgRent": 58,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 44,
+      "avgRent": 51.5,
+      "avgDeposit": 1577.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 26,
+      "avgRent": 38.5,
+      "avgDeposit": 3826.9
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 18,
+      "avgRent": 54.3,
+      "avgDeposit": 2716.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 36,
+      "avgRent": 56.2,
+      "avgDeposit": 2766.7
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 15,
+      "avgRent": 47.2,
+      "avgDeposit": 4333.3
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 37,
+      "avgRent": 49.7,
+      "avgDeposit": 3956.8
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 23,
+      "avgRent": 70.3,
+      "avgDeposit": 1869.6
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 44,
+      "avgRent": 57.8,
+      "avgDeposit": 4461.4
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 4,
+      "avgRent": 30,
+      "avgDeposit": 11500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 8,
+      "avgRent": 57.5,
+      "avgDeposit": 10500
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "남현동",
+      "housingType": "오피스텔",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 8,
+      "avgRent": 76,
+      "avgDeposit": 1625
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 36,
+      "avgRent": 39.1,
+      "avgDeposit": 1388.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 206,
+      "avgRent": 38,
+      "avgDeposit": 2048.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 997,
+      "avgRent": 43.3,
+      "avgDeposit": 1486.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 1877,
+      "avgRent": 42.2,
+      "avgDeposit": 1717.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 2744,
+      "avgRent": 45.2,
+      "avgDeposit": 1963.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 1559,
+      "avgRent": 47.6,
+      "avgDeposit": 2714.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 563,
+      "avgRent": 49.4,
+      "avgDeposit": 3482.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 460,
+      "avgRent": 49.7,
+      "avgDeposit": 4015.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 294,
+      "avgRent": 52.5,
+      "avgDeposit": 3737.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 248,
+      "avgRent": 56.1,
+      "avgDeposit": 4079.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 490,
+      "avgRent": 55.1,
+      "avgDeposit": 3868.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 570,
+      "avgRent": 58.7,
+      "avgDeposit": 3280.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 234,
+      "avgRent": 55.9,
+      "avgDeposit": 3715
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 343,
+      "avgRent": 58.3,
+      "avgDeposit": 3553.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 311,
+      "avgRent": 59.7,
+      "avgDeposit": 3930.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 343,
+      "avgRent": 59.9,
+      "avgDeposit": 3721.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 178,
+      "avgRent": 58.7,
+      "avgDeposit": 5012.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 150,
+      "avgRent": 57.6,
+      "avgDeposit": 5629.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 115,
+      "avgRent": 59.5,
+      "avgDeposit": 5605.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 120,
+      "avgRent": 71.7,
+      "avgDeposit": 4946.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 108,
+      "avgRent": 60.4,
+      "avgDeposit": 6217.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 76,
+      "avgRent": 72.5,
+      "avgDeposit": 6043.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 58,
+      "avgRent": 63.2,
+      "avgDeposit": 6562.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 59,
+      "avgRent": 58.5,
+      "avgDeposit": 7936.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 53,
+      "avgRent": 68.3,
+      "avgDeposit": 7762.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 71,
+      "avgRent": 68.2,
+      "avgDeposit": 7791.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 45,
+      "avgRent": 66.8,
+      "avgDeposit": 7248.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 54,
+      "avgRent": 71.7,
+      "avgDeposit": 8074.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 47,
+      "avgRent": 81,
+      "avgDeposit": 5925.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 26,
+      "avgRent": 73.4,
+      "avgDeposit": 5769.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 17,
+      "avgRent": 72.5,
+      "avgDeposit": 7235.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 25,
+      "avgRent": 72.4,
+      "avgDeposit": 8600
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 20,
+      "avgRent": 64.8,
+      "avgDeposit": 11100
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 19,
+      "avgRent": 80.6,
+      "avgDeposit": 12157.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 27,
+      "avgRent": 75.6,
+      "avgDeposit": 10018.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 18,
+      "avgRent": 67.5,
+      "avgDeposit": 9888.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 7,
+      "avgRent": 29.3,
+      "avgDeposit": 17142.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 17,
+      "avgRent": 133.9,
+      "avgDeposit": 16176.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "86-88㎡",
+      "areaMin": 86,
+      "areaMax": 88,
+      "count": 3,
+      "avgRent": 95,
+      "avgDeposit": 4000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "88-90㎡",
+      "areaMin": 88,
+      "areaMax": 90,
+      "count": 3,
+      "avgRent": 73.3,
+      "avgDeposit": 1666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 8,
+      "avgRent": 75.5,
+      "avgDeposit": 8500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "92-94㎡",
+      "areaMin": 92,
+      "areaMax": 94,
+      "count": 6,
+      "avgRent": 125,
+      "avgDeposit": 5666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 5,
+      "avgRent": 94,
+      "avgDeposit": 4200
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "96-98㎡",
+      "areaMin": 96,
+      "areaMax": 98,
+      "count": 13,
+      "avgRent": 67.7,
+      "avgDeposit": 8615.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "100-102㎡",
+      "areaMin": 100,
+      "areaMax": 102,
+      "count": 5,
+      "avgRent": 91,
+      "avgDeposit": 10000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "102-104㎡",
+      "areaMin": 102,
+      "areaMax": 104,
+      "count": 4,
+      "avgRent": 70,
+      "avgDeposit": 14000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 4,
+      "avgRent": 30,
+      "avgDeposit": 1500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "108-110㎡",
+      "areaMin": 108,
+      "areaMax": 110,
+      "count": 4,
+      "avgRent": 57.5,
+      "avgDeposit": 800
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 3,
+      "avgRent": 60.7,
+      "avgDeposit": 3666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "114-116㎡",
+      "areaMin": 114,
+      "areaMax": 116,
+      "count": 4,
+      "avgRent": 45,
+      "avgDeposit": 16250
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "118-120㎡",
+      "areaMin": 118,
+      "areaMax": 120,
+      "count": 9,
+      "avgRent": 36.7,
+      "avgDeposit": 3888.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "120-122㎡",
+      "areaMin": 120,
+      "areaMax": 122,
+      "count": 3,
+      "avgRent": 53.3,
+      "avgDeposit": 666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "124-126㎡",
+      "areaMin": 124,
+      "areaMax": 126,
+      "count": 3,
+      "avgRent": 50.3,
+      "avgDeposit": 833.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "128-130㎡",
+      "areaMin": 128,
+      "areaMax": 130,
+      "count": 2,
+      "avgRent": 55,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "130-132㎡",
+      "areaMin": 130,
+      "areaMax": 132,
+      "count": 6,
+      "avgRent": 39.8,
+      "avgDeposit": 1083.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "136-138㎡",
+      "areaMin": 136,
+      "areaMax": 138,
+      "count": 1,
+      "avgRent": 45,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "138-140㎡",
+      "areaMin": 138,
+      "areaMax": 140,
+      "count": 7,
+      "avgRent": 32.7,
+      "avgDeposit": 1358.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "140-142㎡",
+      "areaMin": 140,
+      "areaMax": 142,
+      "count": 4,
+      "avgRent": 56,
+      "avgDeposit": 3500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "142-144㎡",
+      "areaMin": 142,
+      "areaMax": 144,
+      "count": 1,
+      "avgRent": 30,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "144-146㎡",
+      "areaMin": 144,
+      "areaMax": 146,
+      "count": 4,
+      "avgRent": 45,
+      "avgDeposit": 5100
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "146-148㎡",
+      "areaMin": 146,
+      "areaMax": 148,
+      "count": 2,
+      "avgRent": 35,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "148-150㎡",
+      "areaMin": 148,
+      "areaMax": 150,
+      "count": 6,
+      "avgRent": 33.5,
+      "avgDeposit": 533.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "150-152㎡",
+      "areaMin": 150,
+      "areaMax": 152,
+      "count": 2,
+      "avgRent": 35,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "152-154㎡",
+      "areaMin": 152,
+      "areaMax": 154,
+      "count": 5,
+      "avgRent": 51.8,
+      "avgDeposit": 2100
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "154-156㎡",
+      "areaMin": 154,
+      "areaMax": 156,
+      "count": 6,
+      "avgRent": 38.2,
+      "avgDeposit": 2750
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "156-158㎡",
+      "areaMin": 156,
+      "areaMax": 158,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 180
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "162-164㎡",
+      "areaMin": 162,
+      "areaMax": 164,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 400
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "164-166㎡",
+      "areaMin": 164,
+      "areaMax": 166,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "170-172㎡",
+      "areaMin": 170,
+      "areaMax": 172,
+      "count": 2,
+      "avgRent": 150,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "172-174㎡",
+      "areaMin": 172,
+      "areaMax": 174,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "178-180㎡",
+      "areaMin": 178,
+      "areaMax": 180,
+      "count": 6,
+      "avgRent": 66.7,
+      "avgDeposit": 10000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "180-182㎡",
+      "areaMin": 180,
+      "areaMax": 182,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "182-184㎡",
+      "areaMin": 182,
+      "areaMax": 184,
+      "count": 4,
+      "avgRent": 60,
+      "avgDeposit": 1250
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "184-186㎡",
+      "areaMin": 184,
+      "areaMax": 186,
+      "count": 4,
+      "avgRent": 46.3,
+      "avgDeposit": 625
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "186-188㎡",
+      "areaMin": 186,
+      "areaMax": 188,
+      "count": 3,
+      "avgRent": 86.7,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "188-190㎡",
+      "areaMin": 188,
+      "areaMax": 190,
+      "count": 2,
+      "avgRent": 45,
+      "avgDeposit": 11000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "190-192㎡",
+      "areaMin": 190,
+      "areaMax": 192,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "194-196㎡",
+      "areaMin": 194,
+      "areaMax": 196,
+      "count": 8,
+      "avgRent": 36.3,
+      "avgDeposit": 7125
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "196-198㎡",
+      "areaMin": 196,
+      "areaMax": 198,
+      "count": 1,
+      "avgRent": 35,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "198-200㎡",
+      "areaMin": 198,
+      "areaMax": 200,
+      "count": 13,
+      "avgRent": 40.8,
+      "avgDeposit": 8153.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "202-204㎡",
+      "areaMin": 202,
+      "areaMax": 204,
+      "count": 2,
+      "avgRent": 45,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "204-206㎡",
+      "areaMin": 204,
+      "areaMax": 206,
+      "count": 3,
+      "avgRent": 38,
+      "avgDeposit": 1333.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "206-208㎡",
+      "areaMin": 206,
+      "areaMax": 208,
+      "count": 4,
+      "avgRent": 48,
+      "avgDeposit": 550
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "208-210㎡",
+      "areaMin": 208,
+      "areaMax": 210,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "210-212㎡",
+      "areaMin": 210,
+      "areaMax": 212,
+      "count": 1,
+      "avgRent": 70,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "212-214㎡",
+      "areaMin": 212,
+      "areaMax": 214,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "214-216㎡",
+      "areaMin": 214,
+      "areaMax": 216,
+      "count": 4,
+      "avgRent": 46.3,
+      "avgDeposit": 3500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "216-218㎡",
+      "areaMin": 216,
+      "areaMax": 218,
+      "count": 2,
+      "avgRent": 25,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "226-228㎡",
+      "areaMin": 226,
+      "areaMax": 228,
+      "count": 1,
+      "avgRent": 70,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "228-230㎡",
+      "areaMin": 228,
+      "areaMax": 230,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 8000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "230-232㎡",
+      "areaMin": 230,
+      "areaMax": 232,
+      "count": 1,
+      "avgRent": 60,
+      "avgDeposit": 4000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "236-238㎡",
+      "areaMin": 236,
+      "areaMax": 238,
+      "count": 5,
+      "avgRent": 81,
+      "avgDeposit": 4800
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "238-240㎡",
+      "areaMin": 238,
+      "areaMax": 240,
+      "count": 2,
+      "avgRent": 50,
+      "avgDeposit": 200
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "240-242㎡",
+      "areaMin": 240,
+      "areaMax": 242,
+      "count": 4,
+      "avgRent": 85,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "244-246㎡",
+      "areaMin": 244,
+      "areaMax": 246,
+      "count": 1,
+      "avgRent": 40,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "246-248㎡",
+      "areaMin": 246,
+      "areaMax": 248,
+      "count": 8,
+      "avgRent": 36,
+      "avgDeposit": 5450
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "단독다가구",
+      "areaBand": "248-250㎡",
+      "areaMin": 248,
+      "areaMax": 250,
+      "count": 5,
+      "avgRent": 48.2,
+      "avgDeposit": 3600
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 181,
+      "avgRent": 64,
+      "avgDeposit": 2456.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 163,
+      "avgRent": 56.8,
+      "avgDeposit": 3289
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 71,
+      "avgRent": 60.5,
+      "avgDeposit": 4450.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 109,
+      "avgRent": 46.5,
+      "avgDeposit": 7133
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 62,
+      "avgRent": 71.9,
+      "avgDeposit": 2790.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 38,
+      "avgRent": 52.5,
+      "avgDeposit": 8881.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 36,
+      "avgRent": 79.3,
+      "avgDeposit": 4019.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 10,
+      "avgRent": 72.6,
+      "avgDeposit": 1700
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 32,
+      "avgRent": 53.4,
+      "avgDeposit": 12281.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 178,
+      "avgRent": 34.4,
+      "avgDeposit": 4114.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 72,
+      "avgRent": 22.4,
+      "avgDeposit": 1969.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 35,
+      "avgRent": 32.2,
+      "avgDeposit": 3349.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 62,
+      "avgRent": 40.1,
+      "avgDeposit": 9115.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 51,
+      "avgRent": 21.5,
+      "avgDeposit": 4088
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 17,
+      "avgRent": 18.6,
+      "avgDeposit": 3872.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 3,
+      "avgRent": 100,
+      "avgDeposit": 14000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 2,
+      "avgRent": 70,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 53,
+      "avgRent": 59.2,
+      "avgDeposit": 16828.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 25,
+      "avgRent": 23.6,
+      "avgDeposit": 7436.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 35,
+      "avgRent": 43.4,
+      "avgDeposit": 6641.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 10,
+      "avgRent": 105.3,
+      "avgDeposit": 19000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 10,
+      "avgRent": 80.6,
+      "avgDeposit": 16400
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 743,
+      "avgRent": 104.5,
+      "avgDeposit": 16680.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 50,
+      "avgRent": 113.7,
+      "avgDeposit": 15550
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 5,
+      "avgRent": 139,
+      "avgDeposit": 8000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 2,
+      "avgRent": 10,
+      "avgDeposit": 21000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 28000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 37,
+      "avgRent": 86.5,
+      "avgDeposit": 18356.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 7,
+      "avgRent": 107.1,
+      "avgDeposit": 21571.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 5,
+      "avgRent": 116,
+      "avgDeposit": 9800
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 6,
+      "avgRent": 94.2,
+      "avgDeposit": 24666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 14,
+      "avgRent": 80.9,
+      "avgDeposit": 21800
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 8,
+      "avgRent": 137.5,
+      "avgDeposit": 13625
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 29,
+      "avgRent": 116.7,
+      "avgDeposit": 20810.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 593,
+      "avgRent": 124.3,
+      "avgDeposit": 24884.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 2,
+      "avgRent": 25,
+      "avgDeposit": 53000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "92-94㎡",
+      "areaMin": 92,
+      "areaMax": 94,
+      "count": 3,
+      "avgRent": 65,
+      "avgDeposit": 23000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "96-98㎡",
+      "areaMin": 96,
+      "areaMax": 98,
+      "count": 1,
+      "avgRent": 100,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 2,
+      "avgRent": 50,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "100-102㎡",
+      "areaMin": 100,
+      "areaMax": 102,
+      "count": 14,
+      "avgRent": 137.1,
+      "avgDeposit": 26285.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "102-104㎡",
+      "areaMin": 102,
+      "areaMax": 104,
+      "count": 8,
+      "avgRent": 119.8,
+      "avgDeposit": 26125
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 11,
+      "avgRent": 105.5,
+      "avgDeposit": 30444.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "106-108㎡",
+      "areaMin": 106,
+      "areaMax": 108,
+      "count": 5,
+      "avgRent": 119.6,
+      "avgDeposit": 35200
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "108-110㎡",
+      "areaMin": 108,
+      "areaMax": 110,
+      "count": 1,
+      "avgRent": 200,
+      "avgDeposit": 20000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "110-112㎡",
+      "areaMin": 110,
+      "areaMax": 112,
+      "count": 2,
+      "avgRent": 15,
+      "avgDeposit": 54000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 3,
+      "avgRent": 76.7,
+      "avgDeposit": 42666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "114-116㎡",
+      "areaMin": 114,
+      "areaMax": 116,
+      "count": 123,
+      "avgRent": 142.6,
+      "avgDeposit": 26967.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "116-118㎡",
+      "areaMin": 116,
+      "areaMax": 118,
+      "count": 26,
+      "avgRent": 117.9,
+      "avgDeposit": 19500.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 8,
+      "avgRent": 127,
+      "avgDeposit": 23125
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "130-132㎡",
+      "areaMin": 130,
+      "areaMax": 132,
+      "count": 2,
+      "avgRent": 90,
+      "avgDeposit": 35000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "136-138㎡",
+      "areaMin": 136,
+      "areaMax": 138,
+      "count": 3,
+      "avgRent": 126.7,
+      "avgDeposit": 26666.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "166-168㎡",
+      "areaMin": 166,
+      "areaMax": 168,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 60000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "아파트",
+      "areaBand": "170-172㎡",
+      "areaMin": 170,
+      "areaMax": 172,
+      "count": 1,
+      "avgRent": 350,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "8-10㎡",
+      "areaMin": 8,
+      "areaMax": 10,
+      "count": 12,
+      "avgRent": 38.9,
+      "avgDeposit": 8300
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 106,
+      "avgRent": 38.3,
+      "avgDeposit": 8663.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 270,
+      "avgRent": 45.8,
+      "avgDeposit": 5427.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 131,
+      "avgRent": 43.4,
+      "avgDeposit": 3912.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 92,
+      "avgRent": 54.4,
+      "avgDeposit": 4793.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 64,
+      "avgRent": 53.4,
+      "avgDeposit": 4304.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 88,
+      "avgRent": 49.9,
+      "avgDeposit": 7028.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 109,
+      "avgRent": 48.7,
+      "avgDeposit": 8580.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 144,
+      "avgRent": 52.4,
+      "avgDeposit": 9712.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 131,
+      "avgRent": 55.4,
+      "avgDeposit": 8105.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 342,
+      "avgRent": 50.1,
+      "avgDeposit": 13102.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 74,
+      "avgRent": 45.7,
+      "avgDeposit": 4356.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 68,
+      "avgRent": 43.5,
+      "avgDeposit": 9108.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 97,
+      "avgRent": 48,
+      "avgDeposit": 7482.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 87,
+      "avgRent": 49.9,
+      "avgDeposit": 7545.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 73,
+      "avgRent": 51.4,
+      "avgDeposit": 8496.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 102,
+      "avgRent": 53.1,
+      "avgDeposit": 8953.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 104,
+      "avgRent": 59.1,
+      "avgDeposit": 10688.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 97,
+      "avgRent": 56.4,
+      "avgDeposit": 9911.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 68,
+      "avgRent": 53.8,
+      "avgDeposit": 8244.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 93,
+      "avgRent": 56.1,
+      "avgDeposit": 9100
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 89,
+      "avgRent": 62.3,
+      "avgDeposit": 7541.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 52,
+      "avgRent": 57.6,
+      "avgDeposit": 11192.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 48,
+      "avgRent": 58,
+      "avgDeposit": 6926.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 38,
+      "avgRent": 71.3,
+      "avgDeposit": 9131.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 88,
+      "avgRent": 52.9,
+      "avgDeposit": 11795.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 56,
+      "avgRent": 45.7,
+      "avgDeposit": 12639.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 28,
+      "avgRent": 63,
+      "avgDeposit": 8964.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 30,
+      "avgRent": 49.1,
+      "avgDeposit": 13453.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 32,
+      "avgRent": 54.4,
+      "avgDeposit": 10843.8
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 38,
+      "avgRent": 57.8,
+      "avgDeposit": 11481.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 14,
+      "avgRent": 65.4,
+      "avgDeposit": 9192.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 19,
+      "avgRent": 52,
+      "avgDeposit": 7223.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 23,
+      "avgRent": 78.1,
+      "avgDeposit": 12982.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 17,
+      "avgRent": 41.4,
+      "avgDeposit": 13176.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 29,
+      "avgRent": 64.6,
+      "avgDeposit": 8989.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 21,
+      "avgRent": 61,
+      "avgDeposit": 11581
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 4,
+      "avgRent": 122.5,
+      "avgDeposit": 5500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 11,
+      "avgRent": 57.3,
+      "avgDeposit": 13990.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "86-88㎡",
+      "areaMin": 86,
+      "areaMax": 88,
+      "count": 4,
+      "avgRent": 64,
+      "avgDeposit": 12000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "88-90㎡",
+      "areaMin": 88,
+      "areaMax": 90,
+      "count": 1,
+      "avgRent": 12,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 4,
+      "avgRent": 37.5,
+      "avgDeposit": 13000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 2,
+      "avgRent": 50,
+      "avgDeposit": 12000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "96-98㎡",
+      "areaMin": 96,
+      "areaMax": 98,
+      "count": 4,
+      "avgRent": 52.5,
+      "avgDeposit": 2325
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "100-102㎡",
+      "areaMin": 100,
+      "areaMax": 102,
+      "count": 2,
+      "avgRent": 55,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "102-104㎡",
+      "areaMin": 102,
+      "areaMax": 104,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 300
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 5,
+      "avgRent": 37,
+      "avgDeposit": 28000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "106-108㎡",
+      "areaMin": 106,
+      "areaMax": 108,
+      "count": 1,
+      "avgRent": 30,
+      "avgDeposit": 44500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "108-110㎡",
+      "areaMin": 108,
+      "areaMax": 110,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 4,
+      "avgRent": 135,
+      "avgDeposit": 4500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "120-122㎡",
+      "areaMin": 120,
+      "areaMax": 122,
+      "count": 1,
+      "avgRent": 20,
+      "avgDeposit": 35000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 4,
+      "avgRent": 55,
+      "avgDeposit": 1250
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "126-128㎡",
+      "areaMin": 126,
+      "areaMax": 128,
+      "count": 2,
+      "avgRent": 55,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "172-174㎡",
+      "areaMin": 172,
+      "areaMax": 174,
+      "count": 2,
+      "avgRent": 34,
+      "avgDeposit": 8000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "연립다세대",
+      "areaBand": "178-180㎡",
+      "areaMin": 178,
+      "areaMax": 180,
+      "count": 2,
+      "avgRent": 70,
+      "avgDeposit": 4500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "8-10㎡",
+      "areaMin": 8,
+      "areaMax": 10,
+      "count": 17,
+      "avgRent": 43.1,
+      "avgDeposit": 1717.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 21,
+      "avgRent": 42,
+      "avgDeposit": 1147.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 127,
+      "avgRent": 31.7,
+      "avgDeposit": 4348.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 541,
+      "avgRent": 48.2,
+      "avgDeposit": 3658.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 962,
+      "avgRent": 52.8,
+      "avgDeposit": 4277.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 836,
+      "avgRent": 47.6,
+      "avgDeposit": 5504.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 474,
+      "avgRent": 57.1,
+      "avgDeposit": 4498.1
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 190,
+      "avgRent": 50.2,
+      "avgDeposit": 6876.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 280,
+      "avgRent": 57.1,
+      "avgDeposit": 5600
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 204,
+      "avgRent": 53.5,
+      "avgDeposit": 8772.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 133,
+      "avgRent": 59.6,
+      "avgDeposit": 10378.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 69,
+      "avgRent": 60.1,
+      "avgDeposit": 5087
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 20,
+      "avgRent": 44.7,
+      "avgDeposit": 9865
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 4,
+      "avgRent": 84,
+      "avgDeposit": 4500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 46,
+      "avgRent": 74.2,
+      "avgDeposit": 6678.3
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 8,
+      "avgRent": 76.6,
+      "avgDeposit": 6375
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 9,
+      "avgRent": 128.7,
+      "avgDeposit": 8555.6
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 5,
+      "avgRent": 46.8,
+      "avgDeposit": 14400
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 17,
+      "avgRent": 94,
+      "avgDeposit": 9876.5
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 34,
+      "avgRent": 100.9,
+      "avgDeposit": 4705.9
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 3,
+      "avgRent": 73.3,
+      "avgDeposit": 1500
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 3,
+      "avgRent": 24.7,
+      "avgDeposit": 13000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 8,
+      "avgRent": 72.5,
+      "avgDeposit": 11125
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 3,
+      "avgRent": 49,
+      "avgDeposit": 30000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 2,
+      "avgRent": 20,
+      "avgDeposit": 37000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 15,
+      "avgRent": 96.9,
+      "avgDeposit": 21800
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 10,
+      "avgRent": 108.6,
+      "avgDeposit": 19300
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 17,
+      "avgRent": 142.9,
+      "avgDeposit": 9882.4
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 4,
+      "avgRent": 42.5,
+      "avgDeposit": 27900
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 8,
+      "avgRent": 52.5,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 7,
+      "avgRent": 40.7,
+      "avgDeposit": 2285.7
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 13,
+      "avgRent": 68.6,
+      "avgDeposit": 2846.2
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "118-120㎡",
+      "areaMin": 118,
+      "areaMax": 120,
+      "count": 1,
+      "avgRent": 100,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "124-126㎡",
+      "areaMin": 124,
+      "areaMax": 126,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "봉천동",
+      "housingType": "오피스텔",
+      "areaBand": "444-446㎡",
+      "areaMin": 444,
+      "areaMax": 446,
+      "count": 7,
+      "avgRent": 60,
+      "avgDeposit": 1571.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 81,
+      "avgRent": 37,
+      "avgDeposit": 537.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 247,
+      "avgRent": 37.5,
+      "avgDeposit": 865.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 759,
+      "avgRent": 41,
+      "avgDeposit": 815.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 1918,
+      "avgRent": 39.9,
+      "avgDeposit": 834.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 2928,
+      "avgRent": 44.2,
+      "avgDeposit": 1175.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 1763,
+      "avgRent": 46.5,
+      "avgDeposit": 1478.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 706,
+      "avgRent": 48.3,
+      "avgDeposit": 2343.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 547,
+      "avgRent": 50.6,
+      "avgDeposit": 2363.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 323,
+      "avgRent": 50.8,
+      "avgDeposit": 2281.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 283,
+      "avgRent": 53.8,
+      "avgDeposit": 2998
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 716,
+      "avgRent": 53.1,
+      "avgDeposit": 2604.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 510,
+      "avgRent": 55.1,
+      "avgDeposit": 2612.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 346,
+      "avgRent": 54.9,
+      "avgDeposit": 3045.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 297,
+      "avgRent": 53,
+      "avgDeposit": 3863
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 272,
+      "avgRent": 55.9,
+      "avgDeposit": 3206.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 388,
+      "avgRent": 53.6,
+      "avgDeposit": 3090.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 173,
+      "avgRent": 54,
+      "avgDeposit": 4058.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 171,
+      "avgRent": 62.6,
+      "avgDeposit": 3745
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 126,
+      "avgRent": 58.7,
+      "avgDeposit": 4734.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 128,
+      "avgRent": 58.7,
+      "avgDeposit": 4609
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 145,
+      "avgRent": 63,
+      "avgDeposit": 4637.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 50,
+      "avgRent": 63.2,
+      "avgDeposit": 4406
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 77,
+      "avgRent": 60.3,
+      "avgDeposit": 5511
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 64,
+      "avgRent": 63.1,
+      "avgDeposit": 6748.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 78,
+      "avgRent": 58.3,
+      "avgDeposit": 6850
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 62,
+      "avgRent": 69.4,
+      "avgDeposit": 5503.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 45,
+      "avgRent": 70.9,
+      "avgDeposit": 4544.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 46,
+      "avgRent": 67.3,
+      "avgDeposit": 4558.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 79,
+      "avgRent": 62.1,
+      "avgDeposit": 4894.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 26,
+      "avgRent": 51,
+      "avgDeposit": 9330.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 45,
+      "avgRent": 61.3,
+      "avgDeposit": 8717.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 42,
+      "avgRent": 62.1,
+      "avgDeposit": 6938.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 47,
+      "avgRent": 53.4,
+      "avgDeposit": 8443.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 25,
+      "avgRent": 65.5,
+      "avgDeposit": 6560.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 27,
+      "avgRent": 69.5,
+      "avgDeposit": 6307.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 36,
+      "avgRent": 60.6,
+      "avgDeposit": 6172.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 33,
+      "avgRent": 71.8,
+      "avgDeposit": 7181.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 16,
+      "avgRent": 71.6,
+      "avgDeposit": 4687.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "86-88㎡",
+      "areaMin": 86,
+      "areaMax": 88,
+      "count": 14,
+      "avgRent": 72.9,
+      "avgDeposit": 2642.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "88-90㎡",
+      "areaMin": 88,
+      "areaMax": 90,
+      "count": 7,
+      "avgRent": 97.1,
+      "avgDeposit": 4285.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 15,
+      "avgRent": 52,
+      "avgDeposit": 1053.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "92-94㎡",
+      "areaMin": 92,
+      "areaMax": 94,
+      "count": 11,
+      "avgRent": 108.6,
+      "avgDeposit": 2954.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "94-96㎡",
+      "areaMin": 94,
+      "areaMax": 96,
+      "count": 3,
+      "avgRent": 75,
+      "avgDeposit": 1366.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "96-98㎡",
+      "areaMin": 96,
+      "areaMax": 98,
+      "count": 7,
+      "avgRent": 89.1,
+      "avgDeposit": 1800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 9,
+      "avgRent": 61.6,
+      "avgDeposit": 2222.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "100-102㎡",
+      "areaMin": 100,
+      "areaMax": 102,
+      "count": 11,
+      "avgRent": 80.5,
+      "avgDeposit": 5272.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "102-104㎡",
+      "areaMin": 102,
+      "areaMax": 104,
+      "count": 4,
+      "avgRent": 43,
+      "avgDeposit": 2825
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 5,
+      "avgRent": 100,
+      "avgDeposit": 2600
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "106-108㎡",
+      "areaMin": 106,
+      "areaMax": 108,
+      "count": 2,
+      "avgRent": 65,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "110-112㎡",
+      "areaMin": 110,
+      "areaMax": 112,
+      "count": 4,
+      "avgRent": 77.5,
+      "avgDeposit": 15250
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 5,
+      "avgRent": 64.8,
+      "avgDeposit": 3320
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "114-116㎡",
+      "areaMin": 114,
+      "areaMax": 116,
+      "count": 6,
+      "avgRent": 40,
+      "avgDeposit": 4666.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "116-118㎡",
+      "areaMin": 116,
+      "areaMax": 118,
+      "count": 2,
+      "avgRent": 150,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "118-120㎡",
+      "areaMin": 118,
+      "areaMax": 120,
+      "count": 3,
+      "avgRent": 56.7,
+      "avgDeposit": 866.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "120-122㎡",
+      "areaMin": 120,
+      "areaMax": 122,
+      "count": 2,
+      "avgRent": 20,
+      "avgDeposit": 200
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 4,
+      "avgRent": 64.3,
+      "avgDeposit": 700
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "124-126㎡",
+      "areaMin": 124,
+      "areaMax": 126,
+      "count": 2,
+      "avgRent": 65,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "126-128㎡",
+      "areaMin": 126,
+      "areaMax": 128,
+      "count": 2,
+      "avgRent": 10,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "128-130㎡",
+      "areaMin": 128,
+      "areaMax": 130,
+      "count": 2,
+      "avgRent": 46,
+      "avgDeposit": 200
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "132-134㎡",
+      "areaMin": 132,
+      "areaMax": 134,
+      "count": 2,
+      "avgRent": 95,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "138-140㎡",
+      "areaMin": 138,
+      "areaMax": 140,
+      "count": 2,
+      "avgRent": 43,
+      "avgDeposit": 4500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "144-146㎡",
+      "areaMin": 144,
+      "areaMax": 146,
+      "count": 1,
+      "avgRent": 50,
+      "avgDeposit": 2500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "146-148㎡",
+      "areaMin": 146,
+      "areaMax": 148,
+      "count": 1,
+      "avgRent": 30,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "148-150㎡",
+      "areaMin": 148,
+      "areaMax": 150,
+      "count": 14,
+      "avgRent": 42.8,
+      "avgDeposit": 2917.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "150-152㎡",
+      "areaMin": 150,
+      "areaMax": 152,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "154-156㎡",
+      "areaMin": 154,
+      "areaMax": 156,
+      "count": 3,
+      "avgRent": 73.3,
+      "avgDeposit": 1666.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "158-160㎡",
+      "areaMin": 158,
+      "areaMax": 160,
+      "count": 8,
+      "avgRent": 52.4,
+      "avgDeposit": 1085
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "160-162㎡",
+      "areaMin": 160,
+      "areaMax": 162,
+      "count": 4,
+      "avgRent": 27.5,
+      "avgDeposit": 2500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "162-164㎡",
+      "areaMin": 162,
+      "areaMax": 164,
+      "count": 10,
+      "avgRent": 29.2,
+      "avgDeposit": 460
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "164-166㎡",
+      "areaMin": 164,
+      "areaMax": 166,
+      "count": 4,
+      "avgRent": 30,
+      "avgDeposit": 600
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "166-168㎡",
+      "areaMin": 166,
+      "areaMax": 168,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "168-170㎡",
+      "areaMin": 168,
+      "areaMax": 170,
+      "count": 8,
+      "avgRent": 55,
+      "avgDeposit": 875
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "170-172㎡",
+      "areaMin": 170,
+      "areaMax": 172,
+      "count": 5,
+      "avgRent": 62,
+      "avgDeposit": 1660
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "172-174㎡",
+      "areaMin": 172,
+      "areaMax": 174,
+      "count": 4,
+      "avgRent": 55,
+      "avgDeposit": 1500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "174-176㎡",
+      "areaMin": 174,
+      "areaMax": 176,
+      "count": 12,
+      "avgRent": 49.5,
+      "avgDeposit": 833.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "176-178㎡",
+      "areaMin": 176,
+      "areaMax": 178,
+      "count": 6,
+      "avgRent": 23.3,
+      "avgDeposit": 933.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "178-180㎡",
+      "areaMin": 178,
+      "areaMax": 180,
+      "count": 4,
+      "avgRent": 62.5,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "182-184㎡",
+      "areaMin": 182,
+      "areaMax": 184,
+      "count": 2,
+      "avgRent": 80,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "184-186㎡",
+      "areaMin": 184,
+      "areaMax": 186,
+      "count": 4,
+      "avgRent": 194,
+      "avgDeposit": 7625
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "186-188㎡",
+      "areaMin": 186,
+      "areaMax": 188,
+      "count": 8,
+      "avgRent": 37.3,
+      "avgDeposit": 1450
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "188-190㎡",
+      "areaMin": 188,
+      "areaMax": 190,
+      "count": 1,
+      "avgRent": 35,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "190-192㎡",
+      "areaMin": 190,
+      "areaMax": 192,
+      "count": 8,
+      "avgRent": 52.5,
+      "avgDeposit": 3800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "192-194㎡",
+      "areaMin": 192,
+      "areaMax": 194,
+      "count": 7,
+      "avgRent": 32.7,
+      "avgDeposit": 1700
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "194-196㎡",
+      "areaMin": 194,
+      "areaMax": 196,
+      "count": 3,
+      "avgRent": 34.7,
+      "avgDeposit": 300
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "196-198㎡",
+      "areaMin": 196,
+      "areaMax": 198,
+      "count": 16,
+      "avgRent": 48.6,
+      "avgDeposit": 1381.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "198-200㎡",
+      "areaMin": 198,
+      "areaMax": 200,
+      "count": 22,
+      "avgRent": 42.2,
+      "avgDeposit": 2154.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "200-202㎡",
+      "areaMin": 200,
+      "areaMax": 202,
+      "count": 6,
+      "avgRent": 39,
+      "avgDeposit": 3783.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "202-204㎡",
+      "areaMin": 202,
+      "areaMax": 204,
+      "count": 12,
+      "avgRent": 60.8,
+      "avgDeposit": 7000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "204-206㎡",
+      "areaMin": 204,
+      "areaMax": 206,
+      "count": 6,
+      "avgRent": 47.3,
+      "avgDeposit": 1166.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "206-208㎡",
+      "areaMin": 206,
+      "areaMax": 208,
+      "count": 7,
+      "avgRent": 72.9,
+      "avgDeposit": 3142.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "208-210㎡",
+      "areaMin": 208,
+      "areaMax": 210,
+      "count": 6,
+      "avgRent": 33.3,
+      "avgDeposit": 2533.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "210-212㎡",
+      "areaMin": 210,
+      "areaMax": 212,
+      "count": 5,
+      "avgRent": 34,
+      "avgDeposit": 800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "212-214㎡",
+      "areaMin": 212,
+      "areaMax": 214,
+      "count": 8,
+      "avgRent": 40.3,
+      "avgDeposit": 337.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "214-216㎡",
+      "areaMin": 214,
+      "areaMax": 216,
+      "count": 4,
+      "avgRent": 55,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "218-220㎡",
+      "areaMin": 218,
+      "areaMax": 220,
+      "count": 4,
+      "avgRent": 55,
+      "avgDeposit": 650
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "220-222㎡",
+      "areaMin": 220,
+      "areaMax": 222,
+      "count": 4,
+      "avgRent": 34,
+      "avgDeposit": 525
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "222-224㎡",
+      "areaMin": 222,
+      "areaMax": 224,
+      "count": 3,
+      "avgRent": 60,
+      "avgDeposit": 6000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "224-226㎡",
+      "areaMin": 224,
+      "areaMax": 226,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "228-230㎡",
+      "areaMin": 228,
+      "areaMax": 230,
+      "count": 4,
+      "avgRent": 45,
+      "avgDeposit": 1050
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "230-232㎡",
+      "areaMin": 230,
+      "areaMax": 232,
+      "count": 4,
+      "avgRent": 65,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "232-234㎡",
+      "areaMin": 232,
+      "areaMax": 234,
+      "count": 4,
+      "avgRent": 60,
+      "avgDeposit": 3500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "234-236㎡",
+      "areaMin": 234,
+      "areaMax": 236,
+      "count": 3,
+      "avgRent": 33.3,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "236-238㎡",
+      "areaMin": 236,
+      "areaMax": 238,
+      "count": 1,
+      "avgRent": 25,
+      "avgDeposit": 400
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "238-240㎡",
+      "areaMin": 238,
+      "areaMax": 240,
+      "count": 11,
+      "avgRent": 51.4,
+      "avgDeposit": 681.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "240-242㎡",
+      "areaMin": 240,
+      "areaMax": 242,
+      "count": 2,
+      "avgRent": 42.5,
+      "avgDeposit": 1250
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "242-244㎡",
+      "areaMin": 242,
+      "areaMax": 244,
+      "count": 4,
+      "avgRent": 55,
+      "avgDeposit": 1500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "244-246㎡",
+      "areaMin": 244,
+      "areaMax": 246,
+      "count": 3,
+      "avgRent": 35,
+      "avgDeposit": 1500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "246-248㎡",
+      "areaMin": 246,
+      "areaMax": 248,
+      "count": 5,
+      "avgRent": 49,
+      "avgDeposit": 1800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "단독다가구",
+      "areaBand": "248-250㎡",
+      "areaMin": 248,
+      "areaMax": 250,
+      "count": 13,
+      "avgRent": 41.2,
+      "avgDeposit": 2200
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 153,
+      "avgRent": 52.9,
+      "avgDeposit": 1683.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 117,
+      "avgRent": 56.5,
+      "avgDeposit": 3301.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 120,
+      "avgRent": 62.7,
+      "avgDeposit": 2822.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 126,
+      "avgRent": 69,
+      "avgDeposit": 2990.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 44,
+      "avgRent": 108.4,
+      "avgDeposit": 1204.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 162,
+      "avgRent": 57.1,
+      "avgDeposit": 8630.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 6,
+      "avgRent": 83,
+      "avgDeposit": 10402
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 30,
+      "avgRent": 48.8,
+      "avgDeposit": 4871.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 10,
+      "avgRent": 58.6,
+      "avgDeposit": 6400
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 4,
+      "avgRent": 12.5,
+      "avgDeposit": 2025.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 141,
+      "avgRent": 76.2,
+      "avgDeposit": 4610.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 127,
+      "avgRent": 36.8,
+      "avgDeposit": 6601.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 24,
+      "avgRent": 64.2,
+      "avgDeposit": 4083.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 97,
+      "avgRent": 66,
+      "avgDeposit": 10528.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 77,
+      "avgRent": 57.3,
+      "avgDeposit": 12254.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 4,
+      "avgRent": 51,
+      "avgDeposit": 18250
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 5,
+      "avgRent": 74,
+      "avgDeposit": 5240
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 25,
+      "avgRent": 83.1,
+      "avgDeposit": 7460
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 2,
+      "avgRent": 90,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 16,
+      "avgRent": 72.3,
+      "avgDeposit": 6625
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 6,
+      "avgRent": 53.7,
+      "avgDeposit": 10500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 334,
+      "avgRent": 103.1,
+      "avgDeposit": 15350.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 37,
+      "avgRent": 82.9,
+      "avgDeposit": 12816.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 5,
+      "avgRent": 50,
+      "avgDeposit": 23800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 8,
+      "avgRent": 75,
+      "avgDeposit": 2500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 30,
+      "avgRent": 91.5,
+      "avgDeposit": 13800
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 18,
+      "avgRent": 85.3,
+      "avgDeposit": 5333.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 5,
+      "avgRent": 144,
+      "avgDeposit": 8400
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 6,
+      "avgRent": 78.3,
+      "avgDeposit": 16833.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 3,
+      "avgRent": 46.7,
+      "avgDeposit": 20666.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 4,
+      "avgRent": 108.5,
+      "avgDeposit": 15750
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 2,
+      "avgRent": 35,
+      "avgDeposit": 38000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 50,
+      "avgRent": 112,
+      "avgDeposit": 11460
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 210,
+      "avgRent": 114.7,
+      "avgDeposit": 15829.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 11,
+      "avgRent": 80.9,
+      "avgDeposit": 16581.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "98-100㎡",
+      "areaMin": 98,
+      "areaMax": 100,
+      "count": 1,
+      "avgRent": 200,
+      "avgDeposit": 15000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "100-102㎡",
+      "areaMin": 100,
+      "areaMax": 102,
+      "count": 2,
+      "avgRent": 120,
+      "avgDeposit": 15000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "104-106㎡",
+      "areaMin": 104,
+      "areaMax": 106,
+      "count": 14,
+      "avgRent": 110.4,
+      "avgDeposit": 19485.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 9,
+      "avgRent": 132.8,
+      "avgDeposit": 12555.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "114-116㎡",
+      "areaMin": 114,
+      "areaMax": 116,
+      "count": 31,
+      "avgRent": 132.1,
+      "avgDeposit": 20483.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "118-120㎡",
+      "areaMin": 118,
+      "areaMax": 120,
+      "count": 12,
+      "avgRent": 107,
+      "avgDeposit": 20500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "124-126㎡",
+      "areaMin": 124,
+      "areaMax": 126,
+      "count": 2,
+      "avgRent": 50,
+      "avgDeposit": 50000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "아파트",
+      "areaBand": "138-140㎡",
+      "areaMin": 138,
+      "areaMax": 140,
+      "count": 9,
+      "avgRent": 128.9,
+      "avgDeposit": 34133.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 36,
+      "avgRent": 51.2,
+      "avgDeposit": 2530.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 220,
+      "avgRent": 43.5,
+      "avgDeposit": 3061.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 210,
+      "avgRent": 44.6,
+      "avgDeposit": 3165.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 100,
+      "avgRent": 54.3,
+      "avgDeposit": 4142.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 109,
+      "avgRent": 39,
+      "avgDeposit": 8243.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 110,
+      "avgRent": 44.1,
+      "avgDeposit": 6928.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 132,
+      "avgRent": 49.8,
+      "avgDeposit": 7033.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 168,
+      "avgRent": 49.2,
+      "avgDeposit": 10141.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 286,
+      "avgRent": 49.5,
+      "avgDeposit": 9797.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 550,
+      "avgRent": 49.5,
+      "avgDeposit": 10277.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 73,
+      "avgRent": 51.6,
+      "avgDeposit": 7564.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 53,
+      "avgRent": 51.7,
+      "avgDeposit": 8371.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 88,
+      "avgRent": 52.8,
+      "avgDeposit": 5238.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 99,
+      "avgRent": 48.6,
+      "avgDeposit": 5022.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 118,
+      "avgRent": 54.9,
+      "avgDeposit": 6475.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 86,
+      "avgRent": 46.7,
+      "avgDeposit": 6514.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 90,
+      "avgRent": 59.8,
+      "avgDeposit": 6714.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 84,
+      "avgRent": 44.8,
+      "avgDeposit": 8778.2
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "46-48㎡",
+      "areaMin": 46,
+      "areaMax": 48,
+      "count": 85,
+      "avgRent": 53.2,
+      "avgDeposit": 8900.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 113,
+      "avgRent": 61.7,
+      "avgDeposit": 7910.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 46,
+      "avgRent": 57.3,
+      "avgDeposit": 7724.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "52-54㎡",
+      "areaMin": 52,
+      "areaMax": 54,
+      "count": 60,
+      "avgRent": 59,
+      "avgDeposit": 8379.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 43,
+      "avgRent": 54.9,
+      "avgDeposit": 8957.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 60,
+      "avgRent": 58.7,
+      "avgDeposit": 10183.5
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 62,
+      "avgRent": 46.2,
+      "avgDeposit": 11314
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 37,
+      "avgRent": 45.8,
+      "avgDeposit": 10070.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 18,
+      "avgRent": 58.2,
+      "avgDeposit": 8611.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "64-66㎡",
+      "areaMin": 64,
+      "areaMax": 66,
+      "count": 14,
+      "avgRent": 61.9,
+      "avgDeposit": 2550
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "66-68㎡",
+      "areaMin": 66,
+      "areaMax": 68,
+      "count": 23,
+      "avgRent": 69.8,
+      "avgDeposit": 6658.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "68-70㎡",
+      "areaMin": 68,
+      "areaMax": 70,
+      "count": 21,
+      "avgRent": 46.4,
+      "avgDeposit": 8339
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "70-72㎡",
+      "areaMin": 70,
+      "areaMax": 72,
+      "count": 15,
+      "avgRent": 81.7,
+      "avgDeposit": 6866.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 14,
+      "avgRent": 51.7,
+      "avgDeposit": 8985.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "74-76㎡",
+      "areaMin": 74,
+      "areaMax": 76,
+      "count": 21,
+      "avgRent": 52.3,
+      "avgDeposit": 16533.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "76-78㎡",
+      "areaMin": 76,
+      "areaMax": 78,
+      "count": 6,
+      "avgRent": 47,
+      "avgDeposit": 5500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "78-80㎡",
+      "areaMin": 78,
+      "areaMax": 80,
+      "count": 15,
+      "avgRent": 70.8,
+      "avgDeposit": 16466.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "80-82㎡",
+      "areaMin": 80,
+      "areaMax": 82,
+      "count": 6,
+      "avgRent": 55.8,
+      "avgDeposit": 10266.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "82-84㎡",
+      "areaMin": 82,
+      "areaMax": 84,
+      "count": 18,
+      "avgRent": 44.6,
+      "avgDeposit": 4361.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "84-86㎡",
+      "areaMin": 84,
+      "areaMax": 86,
+      "count": 11,
+      "avgRent": 59.4,
+      "avgDeposit": 6081.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "88-90㎡",
+      "areaMin": 88,
+      "areaMax": 90,
+      "count": 1,
+      "avgRent": 80,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "90-92㎡",
+      "areaMin": 90,
+      "areaMax": 92,
+      "count": 6,
+      "avgRent": 66.3,
+      "avgDeposit": 2333.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "92-94㎡",
+      "areaMin": 92,
+      "areaMax": 94,
+      "count": 2,
+      "avgRent": 30,
+      "avgDeposit": 23000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "102-104㎡",
+      "areaMin": 102,
+      "areaMax": 104,
+      "count": 4,
+      "avgRent": 24,
+      "avgDeposit": 18250
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "108-110㎡",
+      "areaMin": 108,
+      "areaMax": 110,
+      "count": 10,
+      "avgRent": 50.2,
+      "avgDeposit": 1400
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "112-114㎡",
+      "areaMin": 112,
+      "areaMax": 114,
+      "count": 2,
+      "avgRent": 40,
+      "avgDeposit": 150
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "116-118㎡",
+      "areaMin": 116,
+      "areaMax": 118,
+      "count": 2,
+      "avgRent": 29,
+      "avgDeposit": 100
+    },
+    {
+      "dong": "신림동",
+      "housingType": "연립다세대",
+      "areaBand": "122-124㎡",
+      "areaMin": 122,
+      "areaMax": 124,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "8-10㎡",
+      "areaMin": 8,
+      "areaMax": 10,
+      "count": 1,
+      "avgRent": 45,
+      "avgDeposit": 5000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "10-12㎡",
+      "areaMin": 10,
+      "areaMax": 12,
+      "count": 29,
+      "avgRent": 43.7,
+      "avgDeposit": 2162.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "12-14㎡",
+      "areaMin": 12,
+      "areaMax": 14,
+      "count": 50,
+      "avgRent": 46.3,
+      "avgDeposit": 1588
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "14-16㎡",
+      "areaMin": 14,
+      "areaMax": 16,
+      "count": 132,
+      "avgRent": 45.7,
+      "avgDeposit": 2936.7
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "16-18㎡",
+      "areaMin": 16,
+      "areaMax": 18,
+      "count": 307,
+      "avgRent": 55.4,
+      "avgDeposit": 2580
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "18-20㎡",
+      "areaMin": 18,
+      "areaMax": 20,
+      "count": 319,
+      "avgRent": 59.2,
+      "avgDeposit": 4013
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "20-22㎡",
+      "areaMin": 20,
+      "areaMax": 22,
+      "count": 113,
+      "avgRent": 51.1,
+      "avgDeposit": 3347.8
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "22-24㎡",
+      "areaMin": 22,
+      "areaMax": 24,
+      "count": 208,
+      "avgRent": 61.2,
+      "avgDeposit": 2474.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "24-26㎡",
+      "areaMin": 24,
+      "areaMax": 26,
+      "count": 141,
+      "avgRent": 74,
+      "avgDeposit": 4835.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "26-28㎡",
+      "areaMin": 26,
+      "areaMax": 28,
+      "count": 179,
+      "avgRent": 73.6,
+      "avgDeposit": 2760.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "28-30㎡",
+      "areaMin": 28,
+      "areaMax": 30,
+      "count": 115,
+      "avgRent": 87.4,
+      "avgDeposit": 4024.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "30-32㎡",
+      "areaMin": 30,
+      "areaMax": 32,
+      "count": 68,
+      "avgRent": 78.6,
+      "avgDeposit": 2679.4
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "32-34㎡",
+      "areaMin": 32,
+      "areaMax": 34,
+      "count": 11,
+      "avgRent": 64.4,
+      "avgDeposit": 4000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "34-36㎡",
+      "areaMin": 34,
+      "areaMax": 36,
+      "count": 12,
+      "avgRent": 66,
+      "avgDeposit": 5575
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "36-38㎡",
+      "areaMin": 36,
+      "areaMax": 38,
+      "count": 13,
+      "avgRent": 147.2,
+      "avgDeposit": 1476.9
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "38-40㎡",
+      "areaMin": 38,
+      "areaMax": 40,
+      "count": 7,
+      "avgRent": 53,
+      "avgDeposit": 20928.6
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "40-42㎡",
+      "areaMin": 40,
+      "areaMax": 42,
+      "count": 28,
+      "avgRent": 138.9,
+      "avgDeposit": 5357.1
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "42-44㎡",
+      "areaMin": 42,
+      "areaMax": 44,
+      "count": 20,
+      "avgRent": 88,
+      "avgDeposit": 4450
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "44-46㎡",
+      "areaMin": 44,
+      "areaMax": 46,
+      "count": 16,
+      "avgRent": 171.3,
+      "avgDeposit": 1875
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "48-50㎡",
+      "areaMin": 48,
+      "areaMax": 50,
+      "count": 3,
+      "avgRent": 70,
+      "avgDeposit": 2000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "50-52㎡",
+      "areaMin": 50,
+      "areaMax": 52,
+      "count": 3,
+      "avgRent": 114.3,
+      "avgDeposit": 8500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "54-56㎡",
+      "areaMin": 54,
+      "areaMax": 56,
+      "count": 2,
+      "avgRent": 50,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "56-58㎡",
+      "areaMin": 56,
+      "areaMax": 58,
+      "count": 2,
+      "avgRent": 85,
+      "avgDeposit": 500
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "58-60㎡",
+      "areaMin": 58,
+      "areaMax": 60,
+      "count": 3,
+      "avgRent": 78.3,
+      "avgDeposit": 5333.3
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "60-62㎡",
+      "areaMin": 60,
+      "areaMax": 62,
+      "count": 2,
+      "avgRent": 60,
+      "avgDeposit": 1000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "62-64㎡",
+      "areaMin": 62,
+      "areaMax": 64,
+      "count": 1,
+      "avgRent": 145,
+      "avgDeposit": 3000
+    },
+    {
+      "dong": "신림동",
+      "housingType": "오피스텔",
+      "areaBand": "72-74㎡",
+      "areaMin": 72,
+      "areaMax": 74,
+      "count": 2,
+      "avgRent": 33,
+      "avgDeposit": 20000
+    }
+  ]
+}
