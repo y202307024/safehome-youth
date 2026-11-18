@@ -15,7 +15,7 @@
     "deadline": "2025-02-25",
     "url": "https://www.myhome.go.kr/",
     "source": "마이홈",
-    "checkedAt": "미확인"
+    "checkedAt": "2026-11-18"
   },
   {
     "id": "sme-youth-jeonse-loan",
@@ -33,7 +33,7 @@
     "deadline": "상시",
     "url": "https://nhuf.molit.go.kr/",
     "source": "주택도시기금",
-    "checkedAt": "미확인"
+    "checkedAt": "2026-11-18"
   },
   {
     "id": "youth-buttimok-jeonse-loan",
@@ -51,7 +51,7 @@
     "deadline": "상시",
     "url": "https://nhuf.molit.go.kr/",
     "source": "주택도시기금",
-    "checkedAt": "미확인"
+    "checkedAt": "2026-11-18"
   },
   {
     "id": "seoul-moving-brokerage-support",
@@ -69,7 +69,7 @@
     "deadline": "2026-04-14",
     "url": "https://youth.seoul.go.kr/",
     "source": "서울청년몽땅정보통",
-    "checkedAt": "미확인"
+    "checkedAt": "2026-11-18"
   },
   {
     "id": "youth-jeonse-guarantee-fee",
@@ -87,6 +87,6 @@
     "deadline": "상시",
     "url": "https://www.khug.or.kr/",
     "source": "주택도시보증공사(HUG)",
-    "checkedAt": "미확인"
+    "checkedAt": "2026-11-18"
   }
 ]
